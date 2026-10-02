@@ -43,17 +43,14 @@ TRANSLATIONS = {
     "ru": ("ru.kuliev", "Elmir Kuliev", "Русский"),
     "tr": ("tr.diyanet", "Diyanet İşleri", "Türkçe"),
     "fr": ("fr.hamidullah", "Muhammad Hamidullah", "Français"),
-    "id": ("id.indonesian", "Kementerian Agama Republik Indonesia", "Bahasa Indonesia"),
+    "id": ("id.indonesian", "Indonesian translation (via Tanzil)", "Bahasa Indonesia"),
     "ur": ("ur.jalandhry", "Fateh Muhammad Jalandhry", "اردو"),
     "bn": ("bn.bengali", "Muhiuddin Khan", "বাংলা"),
     "de": ("de.bubenheim", "Bubenheim & Elyas", "Deutsch"),
 }
 
 # Only official publishers are named; every other translation is credited to its translator alone.
-PUBLISHERS = {
-    "tr": "Diyanet İşleri Başkanlığı (Presidency of Religious Affairs)",
-    "id": "Indonesian Ministry of Religious Affairs (Kemenag)",
-}
+PUBLISHERS = {}
 
 errors, warnings = [], []
 OFFLINE = "--offline" in sys.argv
