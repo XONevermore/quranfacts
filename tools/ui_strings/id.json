@@ -214,7 +214,10 @@
   "ad_break_active": "Istirahat iklan aktif: tanpa iklan layar penuh hingga %1$s.",
   "verse_sources_title": "Tentang terjemahan ayat",
   "verse_sources_body": "Setiap ayat ditampilkan dalam bahasa Arab dan dalam terjemahan yang telah diterbitkan oleh penerjemah yang disebut di bawah tiap bahasa. Kami tidak pernah menerjemahkan ayat sendiri. Bila teks sebuah fakta mengutip ayat sekilas, kata-kata yang dikutip berasal dari terjemahan yang sama. Jika tidak ada terjemahan tepercaya untuk suatu bahasa, ayat-ayatnya ditampilkan dalam bahasa Inggris.",
-  "verse_sources_english": "Belum ada terjemahan tepercaya dalam %1$s, sehingga ayat ditampilkan dalam bahasa Inggris."
+  "verse_sources_english": "Belum ada terjemahan tepercaya dalam %1$s, sehingga ayat ditampilkan dalam bahasa Inggris.",
+  "privacy_policy_title": "Kebijakan privasi",
+  "privacy_policy_body": "Apa yang tetap di perangkat Anda dan apa yang diterima layanan iklan dan pembayaran Google.",
+  "privacy_policy_button": "Baca kebijakan privasi"
  },
  "plurals": {
   "facts_count": {

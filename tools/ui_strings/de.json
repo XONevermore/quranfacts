@@ -214,7 +214,10 @@
   "ad_break_active": "Werbepause aktiv: keine Vollbildwerbung bis %1$s.",
   "verse_sources_title": "Zu den Versübersetzungen",
   "verse_sources_body": "Jeder Vers wird auf Arabisch und in einer veröffentlichten Übersetzung der unter jeder Sprache genannten Übersetzer gezeigt. Wir übersetzen Verse nie selbst. Wo der Text eines Fakts einen Vers beiläufig zitiert, stammen die zitierten Worte aus derselben Übersetzung. Gibt es für eine Sprache keine verlässliche Übersetzung, werden ihre Verse auf Englisch gezeigt.",
-  "verse_sources_english": "Für %1$s gibt es noch keine verlässliche Übersetzung, daher werden die Verse auf Englisch gezeigt."
+  "verse_sources_english": "Für %1$s gibt es noch keine verlässliche Übersetzung, daher werden die Verse auf Englisch gezeigt.",
+  "privacy_policy_title": "Datenschutzerklärung",
+  "privacy_policy_body": "Was auf Ihrem Gerät bleibt und was die Werbe- und Zahlungsdienste von Google erhalten.",
+  "privacy_policy_button": "Datenschutzerklärung lesen"
  },
  "plurals": {
   "facts_count": {

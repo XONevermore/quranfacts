@@ -56,6 +56,8 @@ import com.example.quranfacts.ui.components.StarOrnament
 import com.example.quranfacts.ui.theme.qf
 import androidx.compose.ui.res.stringResource
 import com.example.quranfacts.R
+import com.example.quranfacts.util.PRIVACY_POLICY_URL
+import com.example.quranfacts.util.openUrl
 
 @Composable
 fun MoreScreen(
@@ -73,6 +75,7 @@ fun MoreScreen(
     val premium by Premium.state.collectAsStateWithLifecycle()
     val privacyChoices by Ads.privacyOptionsRequired.collectAsStateWithLifecycle()
     val activity = LocalActivity.current
+    val context = androidx.compose.ui.platform.LocalContext.current
 
     LazyColumn(
         Modifier.fillMaxSize(),
@@ -233,6 +236,17 @@ fun MoreScreen(
                     )
                     OutlinedButton(onClick = { activity?.let(Ads::showPrivacyOptions) }) { Text(stringResource(R.string.privacy_button)) }
                 }
+            }
+        }
+
+        item {
+            Panel(stringResource(R.string.privacy_policy_title)) {
+                Text(
+                    stringResource(R.string.privacy_policy_body),
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+                OutlinedButton(onClick = { context.openUrl(PRIVACY_POLICY_URL) }) { Text(stringResource(R.string.privacy_policy_button)) }
             }
         }
 

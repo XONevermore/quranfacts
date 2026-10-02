@@ -215,6 +215,9 @@
     <string name="verse_sources_title">Оят таржималари ҳақида</string>
     <string name="verse_sources_body">Ҳар бир оят арабча ва ҳар бир тил остида номи кўрсатилган таржимоннинг нашр этилган таржимаси билан кўрсатилади. Оятларни ўзимиз таржима қилмаймиз. Факт матнида оят келтирилган ўринларда келтирилган сўзлар шу таржимадан олинади. Агар бирор тил учун ишончли таржима бўлмаса, унинг оятлари инглизча кўрсатилади.</string>
     <string name="verse_sources_english">%1$s тилида ҳали ишончли таржима йўқ, шунинг учун оятлар инглизча кўрсатилади.</string>
+    <string name="privacy_policy_title">Махфийлик сиёсати</string>
+    <string name="privacy_policy_body">Қурилмангизда нима қолади ва Google’нинг реклама ҳамда тўлов хизматлари нимани оладилар.</string>
+    <string name="privacy_policy_button">Махфийлик сиёсатини ўқиш</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d факт</item>
         <item quantity="other">%1$d факт</item>

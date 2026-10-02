@@ -215,6 +215,9 @@
     <string name="verse_sources_title">À propos des traductions des versets</string>
     <string name="verse_sources_body">Chaque verset est présenté en arabe et dans une traduction publiée, dont le traducteur est nommé sous chaque langue. Nous ne traduisons jamais les versets nous-mêmes. Quand le texte d’un fait cite un verset en passant, les mots cités proviennent de cette même traduction. S’il n’existe pas de traduction fiable pour une langue, ses versets sont affichés en anglais.</string>
     <string name="verse_sources_english">Aucune traduction fiable n’est encore disponible en %1$s ; les versets sont donc affichés en anglais.</string>
+    <string name="privacy_policy_title">Politique de confidentialité</string>
+    <string name="privacy_policy_body">Ce qui reste sur votre appareil et ce que reçoivent les services publicitaires et de paiement de Google.</string>
+    <string name="privacy_policy_button">Lire la politique de confidentialité</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d fait</item>
         <item quantity="many">%1$d de faits</item>

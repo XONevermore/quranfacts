@@ -215,6 +215,9 @@
     <string name="verse_sources_title">আয়াতের অনুবাদ সম্পর্কে</string>
     <string name="verse_sources_body">প্রতিটি আয়াত আরবিতে এবং প্রতিটি ভাষার নিচে উল্লিখিত অনুবাদকের প্রকাশিত অনুবাদে দেখানো হয়। আমরা কখনো নিজেরা আয়াত অনুবাদ করি না। কোনো তথ্যের লেখায় প্রসঙ্গক্রমে আয়াত উদ্ধৃত হলে, উদ্ধৃত শব্দগুলো একই অনুবাদ থেকে নেওয়া হয়। কোনো ভাষার জন্য নির্ভরযোগ্য অনুবাদ না থাকলে তার আয়াত ইংরেজিতে দেখানো হয়।</string>
     <string name="verse_sources_english">%1$s ভাষায় এখনও নির্ভরযোগ্য অনুবাদ নেই, তাই আয়াত ইংরেজিতে দেখানো হচ্ছে।</string>
+    <string name="privacy_policy_title">গোপনীয়তা নীতি</string>
+    <string name="privacy_policy_body">আপনার ডিভাইসে কী থাকে এবং Google-এর বিজ্ঞাপন ও পেমেন্ট সেবা কী পায়।</string>
+    <string name="privacy_policy_button">গোপনীয়তা নীতি পড়ুন</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d টি তথ্য</item>
         <item quantity="other">%1$d টি তথ্য</item>

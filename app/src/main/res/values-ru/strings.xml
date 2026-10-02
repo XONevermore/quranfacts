@@ -215,6 +215,9 @@
     <string name="verse_sources_title">О переводах аятов</string>
     <string name="verse_sources_body">Каждый аят показан по-арабски и в опубликованном переводе, автор которого указан под каждым языком. Мы никогда не переводим аяты сами. Если в тексте факта аят цитируется вскользь, слова берутся из того же перевода. Если для языка нет надёжного перевода, его аяты показываются по-английски.</string>
     <string name="verse_sources_english">Для языка «%1$s» пока нет надёжного перевода, поэтому аяты показаны по-английски.</string>
+    <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="privacy_policy_body">Что остаётся на вашем устройстве и что получают рекламные и платёжные сервисы Google.</string>
+    <string name="privacy_policy_button">Читать политику конфиденциальности</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d факт</item>
         <item quantity="few">%1$d факта</item>

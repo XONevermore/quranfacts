@@ -215,6 +215,9 @@
     <string name="verse_sources_title">Tentang terjemahan ayat</string>
     <string name="verse_sources_body">Setiap ayat ditampilkan dalam bahasa Arab dan dalam terjemahan yang telah diterbitkan oleh penerjemah yang disebut di bawah tiap bahasa. Kami tidak pernah menerjemahkan ayat sendiri. Bila teks sebuah fakta mengutip ayat sekilas, kata-kata yang dikutip berasal dari terjemahan yang sama. Jika tidak ada terjemahan tepercaya untuk suatu bahasa, ayat-ayatnya ditampilkan dalam bahasa Inggris.</string>
     <string name="verse_sources_english">Belum ada terjemahan tepercaya dalam %1$s, sehingga ayat ditampilkan dalam bahasa Inggris.</string>
+    <string name="privacy_policy_title">Kebijakan privasi</string>
+    <string name="privacy_policy_body">Apa yang tetap di perangkat Anda dan apa yang diterima layanan iklan dan pembayaran Google.</string>
+    <string name="privacy_policy_button">Baca kebijakan privasi</string>
     <plurals name="facts_count">
         <item quantity="other">%1$d fakta</item>
     </plurals>

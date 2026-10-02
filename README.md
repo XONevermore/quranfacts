@@ -110,8 +110,7 @@ The first shows the consent form as if you were in Europe; the second fills the 
 
 ### Going live
 
-1. Change `applicationId` from `com.example.quranfacts` first: Play rejects `com.example`, and the subscription is tied
-   to the package name.
+1. The Play identity is `applicationId = com.mymax.quranscience` (permanent; the code namespace stays `com.example.quranfacts`).
 2. **AdMob**: create the app and an *Interstitial* ad unit, then add to `local.properties`:
    ```
    ADMOB_APP_ID=ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY
@@ -121,8 +120,8 @@ The first shows the consent form as if you were in Europe; the second fills the 
    (alcohol, gambling, dating) under *Blocking controls*.
 3. **Play Console**: upload a build, then create a subscription with product ID `premium` and its base plans and prices.
    Add licence testers to try purchases without being charged.
-4. Publish a privacy policy, fill in the Data safety form (advertising ID, purchase history), and add an
-   `app-ads.txt` file to your developer website.
+4. Policy and privacy: see `store/PLAY_COMPLIANCE.md` (privacy policy in `docs/privacy.html`, Data safety answers, ads rules).
+   Add an `app-ads.txt` file to your developer website.
 
 ## Testing on an emulator
 

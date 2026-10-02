@@ -215,6 +215,9 @@
     <string name="verse_sources_title">آیات کے تراجم کے بارے میں</string>
     <string name="verse_sources_body">ہر آیت عربی میں اور ہر زبان کے نیچے مذکور مترجم کے شائع شدہ ترجمے کے ساتھ دکھائی جاتی ہے۔ ہم آیات کا ترجمہ خود کبھی نہیں کرتے۔ جہاں کسی حقیقت کے متن میں آیت کا ذکر ضمناً آئے، وہاں نقل کردہ الفاظ اسی ترجمے سے لیے جاتے ہیں۔ اگر کسی زبان کا کوئی قابلِ اعتماد ترجمہ نہ ہو تو اس کی آیات انگریزی میں دکھائی جاتی ہیں۔</string>
     <string name="verse_sources_english">%1$s میں ابھی کوئی قابلِ اعتماد ترجمہ دستیاب نہیں، اس لیے آیات انگریزی میں دکھائی جا رہی ہیں۔</string>
+    <string name="privacy_policy_title">رازداری کی پالیسی</string>
+    <string name="privacy_policy_body">آپ کے آلے پر کیا رہتا ہے اور گوگل کی اشتہاری اور ادائیگی کی خدمات کو کیا ملتا ہے۔</string>
+    <string name="privacy_policy_button">رازداری کی پالیسی پڑھیں</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d حقیقت</item>
         <item quantity="other">%1$d حقائق</item>

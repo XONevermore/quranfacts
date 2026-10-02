@@ -214,7 +214,10 @@
   "ad_break_active": "Ad break is on: no full-screen ads until %1$s.",
   "verse_sources_title": "About the verse translations",
   "verse_sources_body": "Every verse is shown in Arabic and in a published translation by the translator named under each language. We never translate verses ourselves. Where a fact's text quotes a verse in passing, the quoted words come from that same translation. If no trusted translation exists for a language, its verses are shown in English.",
-  "verse_sources_english": "No trusted translation is available yet in %1$s, so verses are shown in English."
+  "verse_sources_english": "No trusted translation is available yet in %1$s, so verses are shown in English.",
+  "privacy_policy_title": "Privacy policy",
+  "privacy_policy_body": "What stays on your device, and what Google's ad and billing services receive.",
+  "privacy_policy_button": "Read the privacy policy"
  },
  "plurals": {
   "facts_count": {

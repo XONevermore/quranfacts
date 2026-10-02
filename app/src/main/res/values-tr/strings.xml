@@ -215,6 +215,9 @@
     <string name="verse_sources_title">Âyet çevirileri hakkında</string>
     <string name="verse_sources_body">Her âyet Arapça olarak ve her dilin altında adı geçen çevirmenin yayımlanmış çevirisiyle gösterilir. Âyetleri asla kendimiz çevirmeyiz. Bir bilginin metni bir âyeti anarken alıntılanan sözler aynı çeviriden alınır. Bir dil için güvenilir bir çeviri yoksa o dilin âyetleri İngilizce gösterilir.</string>
     <string name="verse_sources_english">%1$s için henüz güvenilir bir çeviri yok, bu yüzden âyetler İngilizce gösterilir.</string>
+    <string name="privacy_policy_title">Gizlilik politikası</string>
+    <string name="privacy_policy_body">Cihazınızda neyin kaldığı ve Google’ın reklam ile ödeme hizmetlerinin neyi aldığı.</string>
+    <string name="privacy_policy_button">Gizlilik politikasını oku</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d bilgi</item>
         <item quantity="other">%1$d bilgi</item>

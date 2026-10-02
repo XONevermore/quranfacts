@@ -216,6 +216,9 @@
     <string name="verse_sources_title">About the verse translations</string>
     <string name="verse_sources_body">Every verse is shown in Arabic and in a published translation by the translator named under each language. We never translate verses ourselves. Where a fact\'s text quotes a verse in passing, the quoted words come from that same translation. If no trusted translation exists for a language, its verses are shown in English.</string>
     <string name="verse_sources_english">No trusted translation is available yet in %1$s, so verses are shown in English.</string>
+    <string name="privacy_policy_title">Privacy policy</string>
+    <string name="privacy_policy_body">What stays on your device, and what Google\'s ad and billing services receive.</string>
+    <string name="privacy_policy_button">Read the privacy policy</string>
     <plurals name="facts_count">
         <item quantity="one">%1$d fact</item>
         <item quantity="other">%1$d facts</item>

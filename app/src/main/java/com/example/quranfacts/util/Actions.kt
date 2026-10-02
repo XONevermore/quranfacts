@@ -19,6 +19,9 @@ import java.io.File
 import java.util.Locale
 import java.util.TimeZone
 
+/** Hosted from docs/privacy.html (GitHub Pages). Must be the same address entered in Play Console > App content > Privacy policy. */
+const val PRIVACY_POLICY_URL = "https://xonevermore.github.io/quranfacts/privacy.html"
+
 fun Context.openUrl(url: String) {
     runCatching {
         startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK))
