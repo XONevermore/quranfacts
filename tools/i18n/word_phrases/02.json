@@ -1,0 +1,22 @@
+{
+"pairs.0": {"en":"two mates","uz":"жуфт","ru":"по паре","tr":"çift çift","fr":"deux éléments","id":"berpasang-pasangan","ur":"دو دو قسمیں","bn":"জোড়ায় জোড়ায়","de":"ein Paar"},
+"pairs.1": {"en":"pairs","uz":"жуфтларни","ru":"парами","tr":"çift çift","fr":"couples","id":"pasangan-pasangan","ur":"جوڑے","bn":"জোড়া জোড়া","de":"Paare"},
+"iron-from-space.0": {"en":"sent down","uz":"туширдик","ru":"ниспослали","tr":"indirdik","fr":"fait descendre","id":"turunkan","ur":"نازل کیں","bn":"নাযিল করেছি","de":"herabkommen lassen"},
+"iron-from-space.1": {"en":"iron","uz":"темирни","ru":"железо","tr":"demiri","fr":"fer","id":"besi","ur":"لوہا","bn":"লৌহ","de":"Eisen"},
+"earth-shape.0": {"en":"wraps","uz":"ўрайдиган","ru":"обвивает","tr":"dolar","fr":"enroule","id":"menutupkan","ur":"لپیٹتا","bn":"আচ্ছাদিত করেন","de":"umschlingen"},
+"earth-shape.1": {"en":"spread","uz":"тухум шаклида","ru":"распростер","tr":"düzenlemiştir","fr":"étendue","id":"dihamparkan-Nya","ur":"پھیلا دیا","bn":"বিস্তৃত করেছেন","de":"hingebreitet"},
+"mountains-pegs.0": {"en":"stakes","uz":"қозиқ","ru":"колышками","tr":"direk","fr":"piquets","id":"pasak","ur":"میخیں","bn":"পেরেক","de":"Pfählen"},
+"mountains-pegs.1": {"en":"firmly set mountains","uz":"баланд тоғларни","ru":"незыблемые горы","tr":"sabit dağlar","fr":"montagnes immobiles","id":"gunung-gunung","ur":"پہاڑ","bn":"বোঝা","de":"festgegründete Berge"},
+"mountains-pegs.2": {"en":"shift","uz":"тебратиб","ru":"колебалась","tr":"sarsılmayasınız","fr":"branle","id":"goncang","ur":"جھک نہ جائے","bn":"হেলে-দুলে","de":"wanke"},
+"water-cycle.0": {"en":"in a measured amount","uz":"ўлчов ила","ru":"в меру","tr":"ölçülü","fr":"avec mesure","id":"suatu ukuran","ur":"اندازے کے ساتھ","bn":"পরিমাণ মত","de":"Maß"},
+"water-cycle.1": {"en":"settled it","uz":"жойлаштирдик","ru":"разместили","tr":"durdurduk","fr":"maintenue","id":"menetap","ur":"ٹھہرا دیا","bn":"সংরক্ষণ করি","de":"aufhalten"},
+"water-cycle.2": {"en":"springs","uz":"манбаълардан","ru":"источникам","tr":"kaynaklara","fr":"sources","id":"sumber-sumber air","ur":"چشمے","bn":"ঝর্ণাসমূহে","de":"Quellen"},
+"hail-clouds.0": {"en":"drives","uz":"ҳайдашини","ru":"гонит","tr":"sürer","fr":"pousse","id":"mengarak","ur":"چلاتا","bn":"সঞ্চালিত করেন","de":"sanft bewegt"},
+"hail-clouds.1": {"en":"brings them together","uz":"тўплашини","ru":"соединяет","tr":"bir araya getirir","fr":"réunit","id":"mengumpulkan","ur":"ملا دیتا ہے","bn":"পুঞ্জীভূত করেন","de":"zusammenfügt"},
+"hail-clouds.2": {"en":"a mass","uz":"уйиб қўйишини","ru":"кучу","tr":"üstüste yığar","fr":"amas","id":"bertindih-tindih","ur":"تہ بہ تہ","bn":"স্তরে স্তরে","de":"Haufen"},
+"hail-clouds.3": {"en":"mountains","uz":"тоғлардан","ru":"гор","tr":"dağlar","fr":"montagnes","id":"gunung-gunung","ur":"پہاڑ","bn":"শিলাস্তুপ","de":"(Wolken)berge"},
+"hail-clouds.4": {"en":"hail","uz":"дўл","ru":"град","tr":"dolu","fr":"grêle","id":"es","ur":"اولے","bn":"শিলাবর্ষণ","de":"Hagel"},
+"two-seas.0": {"en":"released","uz":"оқизиб қўйган","ru":"смешал","tr":"salıverip","fr":"libre cours","id":"membiarkan","ur":"ملا دیا","bn":"প্রবাহিত","de":"freien Lauf"},
+"two-seas.1": {"en":"barrier","uz":"тўсиқ","ru":"преграду","tr":"sınır","fr":"barrière","id":"dinding","ur":"آڑ","bn":"অন্তরায়","de":"trennendes Hindernis"},
+"two-seas.2": {"en":"prohibiting partition","uz":"очилмас сарҳад","ru":"непреодолимое препятствие","tr":"engel olan","fr":"infranchissable","id":"batas yang menghalangi","ur":"مضبوط اوٹ","bn":"দুর্ভেদ্য","de":"verwehrte Absperrung"}
+}

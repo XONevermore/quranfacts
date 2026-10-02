@@ -1,0 +1,178 @@
+{
+ "big-bang.0": {
+  "en": "a joined entity",
+  "uz": "битишган",
+  "ru": "единым целым",
+  "tr": "yapışıkken",
+  "fr": "une masse compacte",
+  "id": "suatu yang padu",
+  "ur": "ملے ہوئے",
+  "bn": "মুখ বন্ধ",
+  "de": "eine zusammenhängende Masse"
+ },
+ "big-bang.1": {
+  "en": "We separated them",
+  "uz": "очганимизни",
+  "ru": "разделили их",
+  "tr": "ayırdığımızı",
+  "fr": "Nous les avons séparés",
+  "id": "Kami pisahkan",
+  "ur": "جدا جدا کردیا",
+  "bn": "খুলে দিলাম",
+  "de": "sie getrennt"
+ },
+ "big-bang.2": {
+  "en": "smoke",
+  "uz": "тутун",
+  "ru": "дымом",
+  "tr": "duman",
+  "fr": "fumée",
+  "id": "asap",
+  "ur": "دھواں",
+  "bn": "ধুম্রকুঞ্জ",
+  "de": "Rauch"
+ },
+ "expanding-universe.0": {
+  "en": "expander",
+  "uz": "кенг қилувчимиз",
+  "ru": "расширяем",
+  "tr": "genişleticiyiz",
+  "fr": "Nous l'étendons",
+  "id": "berkuasa",
+  "ur": "مقدور",
+  "bn": "ব্যাপক ক্ষমতাশালী",
+  "de": "weiten"
+ },
+ "orbits.0": {
+  "en": "an orbit",
+  "uz": "фалакда",
+  "ru": "орбитам",
+  "tr": "yörüngede",
+  "fr": "une orbite",
+  "id": "garis edarnya",
+  "ur": "دائرے میں",
+  "bn": "কক্ষপথে",
+  "de": "Umlaufbahn"
+ },
+ "orbits.1": {
+  "en": "swimming",
+  "uz": "сузмоқдалар",
+  "ru": "плывут",
+  "tr": "yürür",
+  "fr": "voguant",
+  "id": "beredar",
+  "ur": "تیر رہے ہیں",
+  "bn": "বিচরণ করে",
+  "de": "läuft"
+ },
+ "orbits.2": {
+  "en": "precise calculation",
+  "uz": "ҳисобдадир",
+  "ru": "рассчитанному порядку",
+  "tr": "hesaba",
+  "fr": "calcul",
+  "id": "perhitungan",
+  "ur": "حساب مقرر",
+  "bn": "হিসাবমত",
+  "de": "Berechnung"
+ },
+ "sun-moving.0": {
+  "en": "runs",
+  "uz": "жараён этар",
+  "ru": "плывет",
+  "tr": "yürüyüp",
+  "fr": "court",
+  "id": "berjalan",
+  "ur": "چلتا",
+  "bn": "আবর্তন করে",
+  "de": "läuft"
+ },
+ "sun-moving.1": {
+  "en": "stopping point",
+  "uz": "истиқрори",
+  "ru": "местопребыванию",
+  "tr": "yörüngesinde",
+  "fr": "un gîte",
+  "id": "ditempat peredarannya",
+  "ur": "مقرر رستے",
+  "bn": "নির্দিষ্ট অবস্থানে",
+  "de": "Aufenthaltsort"
+ },
+ "sun-moon-light.0": {
+  "en": "shining light",
+  "uz": "зиё",
+  "ru": "сияние",
+  "tr": "ışıklı",
+  "fr": "une clarté",
+  "id": "bersinar",
+  "ur": "روشن",
+  "bn": "উজ্জল আলোকময়",
+  "de": "Leuchte"
+ },
+ "sun-moon-light.1": {
+  "en": "derived light",
+  "uz": "нур",
+  "ru": "свет",
+  "tr": "nurlu",
+  "fr": "une lumière",
+  "id": "bercahaya",
+  "ur": "منور",
+  "bn": "স্নিগ্ধ আলো",
+  "de": "Licht"
+ },
+ "sun-moon-light.2": {
+  "en": "burning lamp",
+  "uz": "чироқ",
+  "ru": "светильником",
+  "tr": "ışık saçan",
+  "fr": "une lampe",
+  "id": "pelita",
+  "ur": "چراغ",
+  "bn": "প্রদীপরূপে",
+  "de": "Leuchtkörper"
+ },
+ "protected-sky.0": {
+  "en": "ceiling",
+  "uz": "шифт",
+  "ru": "кровлей",
+  "tr": "tavan",
+  "fr": "toit",
+  "id": "atap",
+  "ur": "چھت",
+  "bn": "ছাদ",
+  "de": "Dach"
+ },
+ "protected-sky.1": {
+  "en": "protected",
+  "uz": "сақлаган",
+  "ru": "оберегаемой",
+  "tr": "korunmuş",
+  "fr": "protégé",
+  "id": "terpelihara",
+  "ur": "محفوظ",
+  "bn": "সুরক্ষিত",
+  "de": "wohlbehüteten"
+ },
+ "speed-of-light.0": {
+  "en": "ascend",
+  "uz": "чиқар",
+  "ru": "восходят",
+  "tr": "yükselir",
+  "fr": "monte",
+  "id": "naik",
+  "ur": "صعود",
+  "bn": "পৌছবে",
+  "de": "steigt"
+ },
+ "speed-of-light.1": {
+  "en": "extent",
+  "uz": "миқдори",
+  "ru": "равного",
+  "tr": "miktarı",
+  "fr": "durée",
+  "id": "kadarnya",
+  "ur": "مقدار",
+  "bn": "পরিমাণ",
+  "de": "Maß"
+ }
+}

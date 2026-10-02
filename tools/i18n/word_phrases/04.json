@@ -1,0 +1,211 @@
+{
+ "senses-order.0": {
+  "en": "hearing",
+  "uz": "қулоқ",
+  "ru": "слух",
+  "tr": "kulaklar",
+  "fr": "l'ouïe",
+  "id": "pendengaran",
+  "ur": "کان",
+  "bn": "কর্ণ",
+  "de": "Gehör"
+ },
+ "senses-order.1": {
+  "en": "vision",
+  "uz": "кўзлар",
+  "ru": "зрение",
+  "tr": "gözler",
+  "fr": "les yeux",
+  "id": "penglihatan",
+  "ur": "آنکھیں",
+  "bn": "চক্ষু",
+  "de": "Augenlicht"
+ },
+ "senses-order.2": {
+  "en": "hearts",
+  "uz": "диллар",
+  "ru": "сердца",
+  "tr": "kalbler",
+  "fr": "le cœur",
+  "id": "hati",
+  "ur": "دل",
+  "bn": "অন্তঃকরণ",
+  "de": "Herzen"
+ },
+ "fingerprints.0": {
+  "en": "fingertips",
+  "uz": "бармоқ учларини",
+  "ru": "кончики",
+  "tr": "parmak uçlarına",
+  "fr": "doigts",
+  "id": "jari jemarinya",
+  "ur": "پور پور",
+  "bn": "অংগুলিগুলো",
+  "de": "Fingerspitzen"
+ },
+ "fingerprints.1": {
+  "en": "proportion",
+  "uz": "асл ҳолига келтиришга",
+  "ru": "восстановить",
+  "tr": "yeniden yapmaya",
+  "fr": "remettre à leur place",
+  "id": "menyusun",
+  "ur": "درست کردیں",
+  "bn": "সঠিকভাবে সন্নিবেশিত",
+  "de": "zurechtzuformen"
+ },
+ "moon-split.0": {
+  "en": "come near",
+  "uz": "яқинлашди",
+  "ru": "Приблизился",
+  "tr": "yaklaşır",
+  "fr": "approche",
+  "id": "dekat",
+  "ur": "قریب آ پہنچی",
+  "bn": "আসন্ন",
+  "de": "Näher"
+ },
+ "moon-split.1": {
+  "en": "split",
+  "uz": "бўлинди",
+  "ru": "раскололся",
+  "tr": "yarılır",
+  "fr": "s'est fendue",
+  "id": "terbelah",
+  "ur": "شق ہوگیا",
+  "bn": "বিদীর্ণ",
+  "de": "gespalten"
+ },
+ "roman-prophecy.0": {
+  "en": "nearest",
+  "uz": "Яқин",
+  "ru": "ближайшей",
+  "tr": "en yakın",
+  "fr": "voisin",
+  "id": "terdekat",
+  "ur": "نزدیک",
+  "bn": "নিকটবর্তী",
+  "de": "nächstliegenden"
+ },
+ "roman-prophecy.1": {
+  "en": "three to nine",
+  "uz": "Саноқли",
+  "ru": "несколько",
+  "tr": "bir kaç",
+  "fr": "quelques",
+  "id": "beberapa",
+  "ur": "چند",
+  "bn": "কয়েক",
+  "de": "einigen"
+ },
+ "ant-valley.0": {
+  "en": "ant",
+  "uz": "чумоли",
+  "ru": "муравьиха",
+  "tr": "karınca",
+  "fr": "fourmi",
+  "id": "semut",
+  "ur": "چیونٹی",
+  "bn": "পিপীলিকা",
+  "de": "Ameise"
+ },
+ "ant-valley.1": {
+  "en": "ants",
+  "uz": "чумолилар",
+  "ru": "муравьи",
+  "tr": "karıncalar",
+  "fr": "fourmis",
+  "id": "semut-semut",
+  "ur": "چیونٹیوں",
+  "bn": "পিপীলিকার",
+  "de": "Ameisen"
+ },
+ "ant-valley.2": {
+  "en": "dwellings",
+  "uz": "масканларингга",
+  "ru": "жилища",
+  "tr": "Yuvalarınıza",
+  "fr": "demeures",
+  "id": "sarang-sarangmu",
+  "ur": "بلوں",
+  "bn": "গৃহে",
+  "de": "Wohnungen"
+ },
+ "ant-valley.3": {
+  "en": "crushed",
+  "uz": "эзиб юбормасинлар",
+  "ru": "погубили",
+  "tr": "ezmesin",
+  "fr": "écrasent",
+  "id": "diinjak",
+  "ur": "کچل ڈالیں",
+  "bn": "পিষ্ট",
+  "de": "niederwalzen"
+ },
+ "bee-dance.0": {
+  "en": "inspired",
+  "uz": "ваҳий қилди",
+  "ru": "внушил",
+  "tr": "öğretti",
+  "fr": "révéla",
+  "id": "mewahyukan",
+  "ur": "ارشاد فرمایا",
+  "bn": "আদেশ",
+  "de": "eingegeben"
+ },
+ "bee-dance.1": {
+  "en": "ways",
+  "uz": "йўллардан",
+  "ru": "путям",
+  "tr": "yollardan",
+  "fr": "sentiers",
+  "id": "jalan",
+  "ur": "رستوں",
+  "bn": "পথ",
+  "de": "Wegen"
+ },
+ "bee-dance.2": {
+  "en": "laid down",
+  "uz": "осон қилиб қўйган",
+  "ru": "доступны",
+  "tr": "gösterdiği",
+  "fr": "rendus faciles",
+  "id": "dimudahkan",
+  "ur": "صاف",
+  "bn": "উম্মুক্ত",
+  "de": "geebnet"
+ },
+ "locust-swarm.0": {
+  "en": "locusts",
+  "uz": "чигирткага",
+  "ru": "саранча",
+  "tr": "çekirgeler",
+  "fr": "sauterelles",
+  "id": "belalang",
+  "ur": "ٹڈیاں",
+  "bn": "পংগপাল",
+  "de": "Heuschrecken"
+ },
+ "locust-swarm.1": {
+  "en": "spreading",
+  "uz": "ёйилган",
+  "ru": "рассеянная",
+  "tr": "yayılmış",
+  "fr": "éparpillées",
+  "id": "beterbangan",
+  "ur": "بکھری ہوئی",
+  "bn": "বিক্ষিপ্ত",
+  "de": "ausschwärmende"
+ },
+ "locust-swarm.2": {
+  "en": "locusts",
+  "uz": "чигиртка",
+  "ru": "саранчу",
+  "tr": "çekirgeyi",
+  "fr": "sauterelles",
+  "id": "belalang",
+  "ur": "ٹڈیاں",
+  "bn": "পঙ্গপাল",
+  "de": "Heuschrecken"
+ }
+}

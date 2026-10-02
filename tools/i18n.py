@@ -117,7 +117,7 @@ def check(lang):
                 problems.append(f"{lang}/{name}: blank {k}")
                 continue
             # "20th century" is written XX век / XXe siècle / etc. in some languages, so ordinals are not compared.
-            if not re.search(r"\d+(?:st|nd|rd|th) century", v) and digits(v) != digits(t):
+            if ".word." not in k and not re.search(r"\d+(?:st|nd|rd|th) century", v) and digits(v) != digits(t):
                 problems.append(f"{lang}/{name}: digits differ in {k}: {digits(v)} vs {digits(t)}")
             merged[k] = t
         for k in got:
