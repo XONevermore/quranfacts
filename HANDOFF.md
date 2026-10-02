@@ -7,8 +7,8 @@
   App code: `data/I18n.kt`, `ui/Localized.kt`, `AppViewModel.state` (applies the overlay).
 - **Fact text translations** live in `tools/i18n/<lang>/NN.json` (keys = `tools/i18n/en/NN.json`). Store new ones with
   `python3 tools/i18n_put.py` (stdin sections `## <lang> <fact-id>`, one line per key in en order).
-  Done for all 8 languages: chunks 00-03 (all) and chunk 04 except `locust-swarm`. **Still to translate:** `locust-swarm`
-  (chunk 04) and every fact in chunks 05, 06, 07, 08 (28 facts). Untranslated keys fall back to English in the app.
+  Done for all 8 languages: ALL facts, chunks 00-08 (check: 0 problems each). New facts: translate the same way;
+  untranslated keys fall back to English in the app.
   Check with `python3 tools/i18n.py check` (digits must match), then `python3 tools/i18n.py build`.
 - **Quran wording rule (user, standing):** never our own translation of scripture. Verse quotations inside fact text
   (`tools/i18n/quran_quotes.json`, English “…” segments) are replaced by the matching words of the *trusted verse translation*
