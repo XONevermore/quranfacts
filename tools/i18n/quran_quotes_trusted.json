@@ -1,0 +1,862 @@
+{
+ "a joined entity": {
+  "uz": "осмонлару ер битишган бўлган",
+  "ru": "небеса и земля были единым целым",
+  "tr": "gökler ve yer yapışıkken",
+  "fr": "les cieux et la terre formaient une masse compacte",
+  "id": "langit dan bumi itu keduanya dahulu adalah suatu yang padu",
+  "ur": "آسمان اور زمین دونوں ملے ہوئے تھے",
+  "bn": "আকাশমন্ডলী ও পৃথিবীর মুখ বন্ধ ছিল",
+  "de": "die Himmel und die Erde eine zusammenhängende Masse waren"
+ },
+ "the heavens and the earth": {
+  "uz": "осмонлару ер",
+  "ru": "небеса и земля",
+  "tr": "gökler ve yer",
+  "fr": "les cieux et la terre",
+  "id": "langit dan bumi",
+  "ur": "آسمان اور زمین",
+  "bn": "আকাশমন্ডলী ও পৃথিবী",
+  "de": "die Himmel und die Erde"
+ },
+ "indeed We are expanders": {
+  "uz": "Албатта, Биз кенг қилувчимиз",
+  "ru": "Мы его расширяем",
+  "tr": "şüphesiz biz onu genişleticiyiz",
+  "fr": "Nous l'étendons [constamment] dans l'immensité",
+  "id": "sesungguhnya Kami benar-benar berkuasa",
+  "ur": "ہم کو سب مقدور ہے",
+  "bn": "আমি অবশ্যই ব্যাপক ক্ষমতাশালী",
+  "de": "Wir weiten (ihn) wahrlich (noch) aus"
+ },
+ "We have vast capacity": {
+  "uz": "~кенг имконият эгасимиз",
+  "ru": "обладаем мощью",
+  "tr": "~geniş bir güce sahibiz",
+  "fr": "~Nous avons une vaste capacité",
+  "id": "sesungguhnya Kami benar-benar berkuasa",
+  "ur": "ہم کو سب مقدور ہے",
+  "bn": "আমি অবশ্যই ব্যাপক ক্ষমতাশালী",
+  "de": "~Wir haben weite Fähigkeit"
+ },
+ "We are expanding it": {
+  "uz": "Биз кенг қилувчимиз",
+  "ru": "Мы его расширяем",
+  "tr": "biz onu genişleticiyiz",
+  "fr": "Nous l'étendons [constamment] dans l'immensité",
+  "id": "~Kami meluaskannya",
+  "ur": "~ہم اسے وسعت دے رہے ہیں",
+  "bn": "~আমি তা প্রসারিত করছি",
+  "de": "Wir weiten (ihn) wahrlich (noch) aus"
+ },
+ "constructed with strength": {
+  "uz": "Осмонни Ўз қудратимиз ила бино қилдик",
+  "ru": "Мы воздвигли небо благодаря могуществу",
+  "tr": "Göğü, gücümüzle Biz kurduk",
+  "fr": "Le ciel, Nous l'avons construit par Notre puissance",
+  "id": "langit itu Kami bangun dengan kekuasaan",
+  "ur": "آسمانوں کو ہم ہی نے ہاتھوں سے بنایا",
+  "bn": "আমি স্বীয় ক্ষমতাবলে আকাশ নির্মাণ করেছি",
+  "de": "den Himmel haben Wir mit Kraft aufgebaut"
+ },
+ "each in an orbit, swimming.": {
+  "uz": "Ҳар бири фалакда сузиб юрар",
+  "ru": "Каждый плывет по орбите",
+  "tr": "Her biri bir yörüngede yürürler",
+  "fr": "chacun vogue dans une orbite",
+  "id": "masing-masing beredar pada garis edarnya",
+  "ur": "سب اپنے اپنے دائرے میں تیر رہے ہیں",
+  "bn": "প্রত্যেকেই আপন আপন কক্ষপথে সন্তরণ করে",
+  "de": "alle laufen in einer (jeweils eigenen) Umlaufbahn"
+ },
+ "We made the sky a protected ceiling": {
+  "uz": "осмонни сақлаган шифт қилиб қўйдик",
+  "ru": "Мы сделали небо оберегаемой кровлей",
+  "tr": "Göğü karışıklıktan korunmuş bir tavan kıldık",
+  "fr": "Nous avons fait du ciel un toit protégé",
+  "id": "Kami menjadikan langit itu sebagai atap yang terpelihara",
+  "ur": "آسمان کو محفوظ چھت بنایا",
+  "bn": "আমি আকাশকে সুরক্ষিত ছাদ করেছি",
+  "de": "Wir haben den Himmel zu einem wohlbehüteten Dach gemacht"
+ },
+ "will ascend to Him in a Day, the extent of which is a thousand years of those which you count": {
+  "uz": "Сўнгра ўша (иш) миқдорини сиз санаётган ҳисобда минг йилга тенг бўлган кунда Унга чиқар",
+  "ru": "восходят к Нему в течение дня, который продолжается тысячу лет по тому, как вы считаете",
+  "tr": "işler sizin hesabınıza göre bin yıl kadar tutan bir gün içinde O'na yükselir",
+  "fr": "monte vers Lui en un jour équivalent à mille ans de votre calcul",
+  "id": "naik kepada-Nya dalam satu hari yang kadarnya adalah seribu tahun menurut perhitunganmu",
+  "ur": "ایک روز جس کی مقدار تمہارے شمار کے مطابق ہزار برس ہوگی",
+  "bn": "তাঁর কাছে পৌছবে এমন এক দিনে, যার পরিমাণ তোমাদের গণনায় হাজার বছরের সমান",
+  "de": "steigt sie zu Ihm auf an einem Tag, dessen Maß tausend Jahre nach eurer Berechnung sind"
+ },
+ "the extent of which is fifty thousand years": {
+  "uz": "миқдори эллик минг йил бўлган кунда",
+  "ru": "в течение дня, равного пятидесяти тысячам лет",
+  "tr": "miktarı elli bin yıl olan bir günde",
+  "fr": "en un jour dont la durée est de cinquante mille ans",
+  "id": "dalam sehari yang kadarnya limapuluh ribu tahun",
+  "ur": "جس کا اندازہ پچاس ہزار برس کا ہوگا",
+  "bn": "যার পরিমাণ পঞ্চাশ হাজার বছর",
+  "de": "an einem Tag, dessen (Aus)maß fünfzigtausend Jahre ist"
+ },
+ "a thousand years": {
+  "uz": "минг йилга тенг бўлган кунда",
+  "ru": "тысячу лет",
+  "tr": "bin yıl",
+  "fr": "mille ans",
+  "id": "seribu tahun",
+  "ur": "ہزار برس",
+  "bn": "হাজার বছর",
+  "de": "tausend Jahre"
+ },
+ "We created pairs of all things": {
+  "uz": "Ва Биз ҳар бир нарсани жуфт яратдик",
+  "ru": "Мы сотворили все сущее парами",
+  "tr": "her şeyi çift çift yaratmışızdır",
+  "fr": "de toute chose Nous avons créé [deux éléments] de couple",
+  "id": "segala sesuatu Kami ciptakan berpasang-pasangan",
+  "ur": "ہر چیز کی ہم نے دو قسمیں بنائیں",
+  "bn": "আমি প্রত্যেক বস্তু জোড়ায় জোড়ায় সৃষ্টি করেছি",
+  "de": "von allem haben Wir ein Paar erschaffen"
+ },
+ "they do not know": {
+  "uz": "улар билмайдиган нарсалардан",
+  "ru": "то, чего они не знают",
+  "tr": "daha bilmediklerinden",
+  "fr": "ce qu'ils ne savent pas",
+  "id": "apa yang tidak mereka ketahui",
+  "ur": "جن چیزوں کی ان کو خبر نہیں",
+  "bn": "যা তারা জানে না",
+  "de": "dem, was sie nicht wissen"
+ },
+ "from what the earth grows, from themselves, and from what they do not know": {
+  "uz": "Ер ўстирадиган нарсалардан, уларнинг ўзларидан ва улар билмайдиган нарсалардан",
+  "ru": "то, что растит земля, их самих и то, чего они не знают",
+  "tr": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden",
+  "fr": "de ce que la terre fait pousser, d'eux-mêmes, et de ce qu'ils ne savent pas",
+  "id": "apa yang ditumbuhkan oleh bumi dan dari diri mereka maupun dari apa yang tidak mereka ketahui",
+  "ur": "زمین کی نباتات کے اور خود ان کے اور جن چیزوں کی ان کو خبر نہیں",
+  "bn": "যমীন থেকে উৎপন্ন উদ্ভিদকে, তাদেরই মানুষকে এবং যা তারা জানে না",
+  "de": "von dem, was die Erde wachsen läßt, von ihnen selbst und von dem, was sie nicht wissen"
+ },
+ "what the earth grows": {
+  "uz": "Ер ўстирадиган нарсалардан",
+  "ru": "то, что растит земля",
+  "tr": "Yerin yetiştirdiklerinden",
+  "fr": "ce que la terre fait pousser",
+  "id": "apa yang ditumbuhkan oleh bumi",
+  "ur": "زمین کی نباتات",
+  "bn": "যমীন থেকে উৎপন্ন উদ্ভিদ",
+  "de": "dem, was die Erde wachsen läßt"
+ },
+ "We sent down iron": {
+  "uz": "Ва темирни туширдик",
+  "ru": "Мы также ниспослали железо",
+  "tr": "demiri de indirdik",
+  "fr": "Nous avons fait descendre le fer",
+  "id": "Kami ciptakan besi",
+  "ur": "لوہا پیدا کیا",
+  "bn": "আমি নাযিল করেছি লৌহ",
+  "de": "Wir haben das Eisen herabkommen lassen"
+ },
+ "great military might and benefits for people": {
+  "uz": "унда катта куч-қувват ва одамлар учун манфаатлар бор",
+  "ru": "в котором заключается могучая сила и польза для людей",
+  "tr": "pek sert olan ve insanlara birçok faydası bulunan demiri",
+  "fr": "dans lequel il y a une force redoutable, aussi bien que des utilités pour les gens",
+  "id": "yang padanya terdapat kekuatan yang hebat dan berbagai manfaat bagi manusia",
+  "ur": "اس میں (اسلحہٴ جنگ کے لحاظ سے) خطرہ بھی شدید ہے۔ اور لوگوں کے لئے فائدے بھی ہیں",
+  "bn": "যাতে আছে প্রচন্ড রণশক্তি এবং মানুষের বহুবিধ উপকার",
+  "de": "In ihm ist starke Gewalt und Nutzen für die Menschen"
+ },
+ "He wraps the night over the day": {
+  "uz": "кечани кундуз устига ўрайдиган",
+  "ru": "Он обвивает ночью день",
+  "tr": "Geceyi gündüze dolar",
+  "fr": "Il enroule la nuit sur le jour",
+  "id": "Dia menutupkan malam atas siang",
+  "ur": "وہی رات کو دن پر لپیٹتا ہے",
+  "bn": "তিনি রাত্রিকে দিবস দ্বারা আচ্ছাদিত করেন",
+  "de": "Er läßt die Nacht den Tag umschlingen"
+ },
+ "Lest it shift with you": {
+  "uz": "ер сизларни тебратиб юбормаслиги учун",
+  "ru": "дабы она не колебалась вместе с вами",
+  "tr": "sarsılmayasınız diye",
+  "fr": "afin qu'elle ne branle pas en vous emportant avec elle",
+  "id": "supaya bumi itu tidak goncang bersama kamu",
+  "ur": "کہ تم کو لے کر کہیں جھک نہ جائے",
+  "bn": "কখনো যেন তা তোমাদেরকে নিয়ে হেলে-দুলে না পড়ে",
+  "de": "daß sie nicht mit euch wanke"
+ },
+ "in due measure": {
+  "uz": "ўлчов ила",
+  "ru": "в меру",
+  "tr": "ölçülü",
+  "fr": "avec mesure",
+  "id": "menurut suatu ukuran",
+  "ur": "ایک اندازے کے ساتھ",
+  "bn": "পরিমাণ মত",
+  "de": "in (bestimmtem) Maß"
+ },
+ "In due measure": {
+  "uz": "ўлчов ила",
+  "ru": "в меру",
+  "tr": "ölçülü",
+  "fr": "avec mesure",
+  "id": "menurut suatu ukuran",
+  "ur": "ایک اندازے کے ساتھ",
+  "bn": "পরিমাণ মত",
+  "de": "in (bestimmtem) Maß"
+ },
+ "mountains in the sky": {
+  "uz": "ундаги тоғлардан",
+  "ru": "с гор, которые на небе",
+  "tr": "içinde dolu bulunan dağlar gibi bulutlar",
+  "fr": "des nuages [comparables] à des montagnes",
+  "id": "(gumpalan-gumpalan awan seperti) gunung-gunung",
+  "ur": "آسمان میں جو (اولوں کے) پہاڑ ہیں",
+  "bn": "আকাশস্থিত শিলাস্তুপ",
+  "de": "(Wolken)berge"
+ },
+ "sweet and palatable": {
+  "uz": "чучук-ширин",
+  "ru": "приятное, пресное",
+  "tr": "tatlı ve kolay içimli",
+  "fr": "douce, rafraîchissante",
+  "id": "tawar lagi segar",
+  "ur": "شیریں ہے پیاس بجھانے والا",
+  "bn": "মিষ্ট, তৃষ্ণা নিবারক",
+  "de": "süß und erfrischend"
+ },
+ "salty and bitter": {
+  "uz": "шўр-аччиқ",
+  "ru": "соленое, горькое",
+  "tr": "tuzlu ve acı",
+  "fr": "salée, amère",
+  "id": "asin lagi pahit",
+  "ur": "کھاری چھاتی جلانے والا",
+  "bn": "লোনা, বিস্বাদ",
+  "de": "salzig und (auf der Zunge) brennend"
+ },
+ "wave upon wave": {
+  "uz": "у(мавж)нинг ҳам устидан мавж",
+  "ru": "Его покрывает волна, над которой находится другая волна",
+  "tr": "üstüste dalgalar",
+  "fr": "des vagues la recouvrent, [vagues] au dessus desquelles s'élèvent [d'autres] vagues",
+  "id": "yang diliputi oleh ombak, yang di atasnya ombak (pula)",
+  "ur": "جس پر لہر چڑھی چلی آتی ہو اور اس کے اوپر اور لہر",
+  "bn": "তরঙ্গের উপর তরঙ্গ",
+  "de": "von Wogen überdeckt ist, über denen (nochmals) Wogen sind"
+ },
+ "Wave over wave": {
+  "uz": "у(мавж)нинг ҳам устидан мавж",
+  "ru": "Его покрывает волна, над которой находится другая волна",
+  "tr": "üstüste dalgalar",
+  "fr": "des vagues la recouvrent, [vagues] au dessus desquelles s'élèvent [d'autres] vagues",
+  "id": "yang diliputi oleh ombak, yang di atasnya ombak (pula)",
+  "ur": "جس پر لہر چڑھی چلی آتی ہو اور اس کے اوپر اور لہر",
+  "bn": "তরঙ্গের উপর তরঙ্গ",
+  "de": "von Wogen überdeckt ist, über denen (nochmals) Wogen sind"
+ },
+ "We sent the fertilizing winds": {
+  "uz": "Биз шамолларни урчитувчилар этиб юбордик",
+  "ru": "Мы послали ветры, оплодотворяющие облака водой",
+  "tr": "Rüzgarları aşılayıcı olarak gönderdik",
+  "fr": "Nous envoyons les vents fécondants",
+  "id": "Kami telah meniupkan angin untuk mengawinkan (tumbuh-tumbuhan)",
+  "ur": "ہم ہی ہوائیں چلاتے ہیں (جو بادلوں کے پانی سے) بھری ہوئی ہوتی ہیں",
+  "bn": "আমি বৃষ্টিগর্ভ বায়ু পরিচালনা করি",
+  "de": "Wir senden die Winde zur Befruchtung"
+ },
+ "We sent down water from the sky and gave it to you to drink.": {
+  "uz": "осмондан сув тушириб, у ила сизларни сероб қилдик",
+  "ru": "а потом низвели с неба воду и напоили вас ею",
+  "tr": "yukarıdan su indirdik de sizi onunla suladık",
+  "fr": "Nous faisons alors descendre du ciel une eau dont Nous vous abreuvons",
+  "id": "Kami turunkan hujan dari langit, lalu Kami beri minum kamu dengan air itu",
+  "ur": "ہم ہی آسمان سے مینہ برساتے ہیں اور ہم ہی تم کو اس کا پانی پلاتے ہیں",
+  "bn": "আকাশ থেকে পানি বর্ষণ করি, এরপর তোমাদেরকে তা পান করাই",
+  "de": "Und Wir lassen dann vom Himmel Wasser hinabkommen und geben es euch zu trinken"
+ },
+ "We made from water every living thing.": {
+  "uz": "сувдан ҳар бир тирик нарсани қилганимизни",
+  "ru": "сотворили все живое из воды",
+  "tr": "bütün canlıları sudan meydana getirdiğimizi",
+  "fr": "fait de l'eau toute chose vivante",
+  "id": "dari air Kami jadikan segala sesuatu yang hidup",
+  "ur": "تمام جاندار چیزیں ہم نے پانی سے بنائیں",
+  "bn": "প্রাণবন্ত সবকিছু আমি পানি থেকে সৃষ্টি করলাম",
+  "de": "aus dem Wasser alles Lebendige gemacht"
+ },
+ "Every living thing": {
+  "uz": "ҳар бир тирик нарсани",
+  "ru": "все живое",
+  "tr": "bütün canlıları",
+  "fr": "toute chose vivante",
+  "id": "segala sesuatu yang hidup",
+  "ur": "تمام جاندار چیزیں",
+  "bn": "প্রাণবন্ত সবকিছু",
+  "de": "alles Lebendige"
+ },
+ "between excretion and blood": {
+  "uz": "гўнг ва қон орасидан",
+  "ru": "между пометом и кровью",
+  "tr": "Bağırsaklarındakiler ile kan arasından",
+  "fr": "du [mélange] des excréments [intestinaux] et du sang",
+  "id": "antara tahi dan darah",
+  "ur": "گوبر اور لہو",
+  "bn": "গোবর ও রক্ত",
+  "de": "zwischen Kot und Blut"
+ },
+ "Pure milk, pleasant to drink": {
+  "uz": "соф сут",
+  "ru": "чистым молоком, приятным для пьющих",
+  "tr": "halis ve içimi kolay süt",
+  "fr": "un lait pur, délicieux pour les buveurs",
+  "id": "susu yang bersih antara tahi dan darah, yang mudah ditelan bagi orang-orang yang meminumnya",
+  "ur": "خالص دودھ پلاتے ہیں جو پینے والوں کے لیے خوشگوار ہے",
+  "bn": "দুগ্ধ যা পানকারীদের জন্যে উপাদেয়",
+  "de": "reine Milch, angenehm für diejenigen, die (sie) trinken"
+ },
+ "in grazing livestock is a lesson for you": {
+  "uz": "Чорва ҳайвонларида ҳам сиз учун, албатта, ибрат бордир",
+  "ru": "в домашней скотине для вас - назидание",
+  "tr": "Hayvanlarda da size ibretler vardır",
+  "fr": "Il y a certes un enseignement pour vous dans les bestiaux",
+  "id": "pada binatang ternak itu benar-benar terdapat pelajaran bagi kamu",
+  "ur": "چارپایوں میں بھی (مقام) عبرت (وغور) ہے",
+  "bn": "চতুস্পদ জন্তুদের মধ্যে চিন্তা করার অবকাশ রয়েছে",
+  "de": "auch im Vieh habt ihr wahrlich eine Lehre"
+ },
+ "firm lodging": {
+  "uz": "мустаҳкам қароргоҳда",
+  "ru": "в надежном месте",
+  "tr": "sağlam bir yere",
+  "fr": "un reposoir solide",
+  "id": "tempat yang kokoh",
+  "ur": "ایک مضبوط (اور محفوظ) جگہ",
+  "bn": "এক সংরক্ষিত আধারে",
+  "de": "einem festen Aufenthaltsort"
+ },
+ "when it is emitted": {
+  "uz": "оқиб тушганда",
+  "ru": "которая извергается",
+  "tr": "atıldığında",
+  "fr": "quand elle est éjaculée",
+  "id": "apabila dipancarkan",
+  "ur": "جو (رحم میں) ڈالا جاتا ہے",
+  "bn": "যখন স্খলিত করা হয়",
+  "de": "wenn er ausgespritzt wird"
+ },
+ "from a sperm-drop when it is emitted": {
+  "uz": "Нутфадан, оқиб тушганда",
+  "ru": "из капли, которая извергается",
+  "tr": "atıldığında meniden",
+  "fr": "d'une goutte de sperme quand elle est éjaculée",
+  "id": "dari air mani, apabila dipancarkan",
+  "ur": "نطفے سے جو (رحم میں) ڈالا جاتا ہے",
+  "bn": "একবিন্দু বীর্য থেকে যখন স্খলিত করা হয়",
+  "de": "aus einem Samentropfen, wenn er ausgespritzt wird"
+ },
+ "down to the very tips of the fingers.": {
+  "uz": "унинг бармоқ учларини ҳам асл ҳолига келтиришга қодирмиз",
+  "ru": "способны восстановить даже кончики его пальцев",
+  "tr": "parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz",
+  "fr": "de remettre à leur place les extrémités de ses doigts",
+  "id": "kuasa menyusun (kembali) jari jemarinya dengan sempurna",
+  "ur": "اس کی پور پور درست کردیں",
+  "bn": "অংগুলিগুলো পর্যন্ত সঠিকভাবে সন্নিবেশিত করতে সক্ষম",
+  "de": "seine Fingerspitzen zurechtzuformen"
+ },
+ "The Hour has come near, and the moon has split.": {
+  "uz": "Соат (қиёмат) яқинлашди ва ой бўлинди",
+  "ru": "Приблизился Час, и раскололся месяц",
+  "tr": "Kıyamet saati yaklaşır, ay yarılır",
+  "fr": "L'Heure approche et la Lune s'est fendue",
+  "id": "Telah dekat datangnya saat itu dan telah terbelah bulan",
+  "ur": "قیامت قریب آ پہنچی اور چاند شق ہوگیا",
+  "bn": "কেয়ামত আসন্ন, চন্দ্র বিদীর্ণ হয়েছে",
+  "de": "Näher ist die Stunde (des Gerichts) gekommen, und gespalten hat sich der Mond"
+ },
+ "the Hour has drawn near": {
+  "uz": "Соат (қиёмат) яқинлашди",
+  "ru": "Приблизился Час",
+  "tr": "Kıyamet saati yaklaşır",
+  "fr": "L'Heure approche",
+  "id": "Telah dekat datangnya saat itu",
+  "ur": "قیامت قریب آ پہنچی",
+  "bn": "কেয়ামত আসন্ন",
+  "de": "Näher ist die Stunde (des Gerichts) gekommen"
+ },
+ "in the nearest land": {
+  "uz": "Яқин ерда",
+  "ru": "в самой низкой (или ближайшей) земле",
+  "tr": "en yakın bir yerde",
+  "fr": "dans le pays voisin",
+  "id": "di negeri yang terdekat",
+  "ur": "نزدیک کے ملک میں",
+  "bn": "নিকটবর্তী এলাকায়",
+  "de": "im nächstliegenden Land"
+ },
+ "O ants, enter your homes": {
+  "uz": "Эй чумолилар, масканларингга киринглар",
+  "ru": "О муравьи! Войдите в свои жилища",
+  "tr": "Ey karıncalar! Yuvalarınıza girin",
+  "fr": "O fourmis, entrez dans vos demeures",
+  "id": "Hai semut-semut, masuklah ke dalam sarang-sarangmu",
+  "ur": "چیونٹیوں اپنے اپنے بلوں میں داخل ہو جاؤ",
+  "bn": "হে পিপীলিকার দল, তোমরা তোমাদের গৃহে প্রবেশ কর",
+  "de": "O ihr Ameisen, geht in eure Wohnungen hinein"
+ },
+ "A drink of varying colours, in which is healing": {
+  "uz": "турли рангдаги шароб чиқар. Унда одамлар учун шифо бордир",
+  "ru": "питье разных цветов, которое приносит людям исцеление",
+  "tr": "Karınlarından insanlara şifa olan çeşitli renklerde bal çıkar",
+  "fr": "une liqueur, aux couleurs variées, dans laquelle il y a une guérison pour les gens",
+  "id": "minuman (madu) yang bermacam-macam warnanya, di dalamnya terdapat obat yang menyembuhkan bagi manusia",
+  "ur": "پینے کی چیز نکلتی ہے جس کے مختلف رنگ ہوتے ہیں اس میں لوگوں (کے کئی امراض) کی شفا ہے",
+  "bn": "বিভিন্ন রঙে পানীয় নির্গত হয়। তাতে মানুষের জন্যে রয়েছে রোগের প্রতিকার",
+  "de": "ein Getränk von unterschiedlichen Farben, in dem Heilung für die Menschen ist"
+ },
+ "Houses in the mountains and the trees": {
+  "uz": "Тоғлардан, дарахтлардан ва кўтарилган сўритоклардан уй тутгин",
+  "ru": "Воздвигай жилища в горах, на деревьях и в строениях",
+  "tr": "Dağlarda, ağaçlarda ve hazırlanmış kovanlarda yuva edin",
+  "fr": "Prenez des demeures dans les montagnes, les arbres, et les treillages que [les hommes] font",
+  "id": "Buatlah sarang-sarang di bukit-bukit, di pohon-pohon kayu, dan di tempat-tempat yang dibikin manusia",
+  "ur": "پہاڑوں میں اور درختوں میں اور اونچی اونچی چھتریوں میں جو لوگ بناتے ہیں گھر بنا",
+  "bn": "পর্বতগাহ্রে, বৃক্ষ এবং উঁচু চালে গৃহ তৈরী কর",
+  "de": "Nimm dir in den Bergen Häuser, in den Bäumen und in dem, was sie an Spalieren errichten"
+ },
+ "A drink of varying colours in which is healing": {
+  "uz": "турли рангдаги шароб чиқар. Унда одамлар учун шифо бордир",
+  "ru": "питье разных цветов, которое приносит людям исцеление",
+  "tr": "Karınlarından insanlara şifa olan çeşitli renklerde bal çıkar",
+  "fr": "une liqueur, aux couleurs variées, dans laquelle il y a une guérison pour les gens",
+  "id": "minuman (madu) yang bermacam-macam warnanya, di dalamnya terdapat obat yang menyembuhkan bagi manusia",
+  "ur": "پینے کی چیز نکلتی ہے جس کے مختلف رنگ ہوتے ہیں اس میں لوگوں (کے کئی امراض) کی شفا ہے",
+  "bn": "বিভিন্ন রঙে পানীয় নির্গত হয়। তাতে মানুষের জন্যে রয়েছে রোগের প্রতিকার",
+  "de": "ein Getränk von unterschiedlichen Farben, in dem Heilung für die Menschen ist"
+ },
+ "houses in the trees": {
+  "uz": "дарахтлардан ва кўтарилган сўритоклардан уй тутгин",
+  "ru": "Воздвигай жилища в горах, на деревьях",
+  "tr": "ağaçlarda ve hazırlanmış kovanlarda yuva edin",
+  "fr": "les arbres, et les treillages que [les hommes] font",
+  "id": "di pohon-pohon kayu",
+  "ur": "درختوں میں",
+  "bn": "বৃক্ষ",
+  "de": "in den Bäumen"
+ },
+ "another creation": {
+  "uz": "уни бошқа бир жонзот этиб пайдо қилдик",
+  "ru": "Потом Мы вырастили его в другом творении",
+  "tr": "başka bir yaratık yaptık",
+  "fr": "une tout autre création",
+  "id": "makhluk yang (berbentuk) lain",
+  "ur": "نئی صورت میں بنا دیا",
+  "bn": "নতুন রূপে দাঁড় করিয়েছি",
+  "de": "eine weitere Schöpfung"
+ },
+ "follow the ways of your Lord made easy": {
+  "uz": "Роббинг осон қилиб қўйган йўллардан юргин",
+  "ru": "следуй по путям твоего Господа, которые доступны тебе",
+  "tr": "Rabbinin işlemen için gösterdiği yollardan yürü",
+  "fr": "suivez les sentiers de votre Seigneur, rendus faciles pour vous",
+  "id": "tempuhlah jalan Tuhanmu yang telah dimudahkan (bagimu)",
+  "ur": "اپنے پروردگار کے صاف رستوں پر چلی جا",
+  "bn": "আপন পালনকর্তার উম্মুক্ত পথ সমূহে চলমান হও",
+  "de": "ziehe auf den Wegen deines Herrn dahin, die (dir) geebnet sind"
+ },
+ "the ways of your Lord made easy": {
+  "uz": "Роббинг осон қилиб қўйган йўллардан",
+  "ru": "по путям твоего Господа, которые доступны тебе",
+  "tr": "Rabbinin işlemen için gösterdiği yollardan",
+  "fr": "les sentiers de votre Seigneur, rendus faciles pour vous",
+  "id": "jalan Tuhanmu yang telah dimudahkan (bagimu)",
+  "ur": "اپنے پروردگار کے صاف رستوں پر",
+  "bn": "আপন পালনকর্তার উম্মুক্ত পথ সমূহে",
+  "de": "den Wegen deines Herrn dahin, die (dir) geebnet sind"
+ },
+ "like locusts spread out": {
+  "uz": "худди ёйилган чигирткага ўхшаб",
+  "ru": "словно рассеянная саранча",
+  "tr": "çekirgeler gibi yayılmış",
+  "fr": "comme des sauterelles éparpillées",
+  "id": "seakan-akan mereka belalang yang beterbangan",
+  "ur": "گویا بکھری ہوئی ٹڈیاں",
+  "bn": "বিক্ষিপ্ত পংগপাল সদৃশ",
+  "de": "wie ausschwärmende Heuschrecken"
+ },
+ "Locusts spread out": {
+  "uz": "худди ёйилган чигирткага ўхшаб",
+  "ru": "словно рассеянная саранча",
+  "tr": "çekirgeler gibi yayılmış",
+  "fr": "comme des sauterelles éparpillées",
+  "id": "seakan-akan mereka belalang yang beterbangan",
+  "ur": "گویا بکھری ہوئی ٹڈیاں",
+  "bn": "বিক্ষিপ্ত পংগপাল সদৃশ",
+  "de": "wie ausschwärmende Heuschrecken"
+ },
+ "if the fly snatches something from them": {
+  "uz": "агар пашша улардан бирон нарсани тортиб олса",
+  "ru": "Если же муха заберет у них что-нибудь",
+  "tr": "Sinek onlardan bir şey kapsa",
+  "fr": "si la mouche les dépouillait de quelque chose",
+  "id": "jika lalat itu merampas sesuatu dari mereka",
+  "ur": "اگر ان سے مکھی کوئی چیز لے جائے",
+  "bn": "মাছি যদি তাদের কাছ থেকে কোন কিছু ছিনিয়ে নেয়",
+  "de": "wenn die Fliege ihnen etwas raubte"
+ },
+ "Or what is above it": {
+  "uz": "чивин ёки ундан устунроқ нарсани",
+  "ru": "или том, что больше него",
+  "tr": "ve onun üstününü",
+  "fr": "ou quoi que ce soit au-dessus",
+  "id": "atau yang lebih rendah dari itu",
+  "ur": "یا اس سے بڑھ کر کسی چیز",
+  "bn": "বা তদুর্ধ্ব বস্তু",
+  "de": "oder mit etwas darüber (hinaus)"
+ },
+ "what is smaller than it": {
+  "uz": "~ундан кичикроқ нарса",
+  "ru": "~то, что меньше него",
+  "tr": "~ondan daha küçük olan",
+  "fr": "~ce qui est plus petit qu'elle",
+  "id": "~yang lebih kecil dari itu",
+  "ur": "~اس سے چھوٹی چیز",
+  "bn": "~তার চেয়ে ছোট কিছু",
+  "de": "~etwas, das kleiner ist als sie"
+ },
+ "The weakest of houses is the spider's house": {
+  "uz": "энг заиф уй ўргимчакнинг уясидир",
+  "ru": "самое непрочное жилище - это жилище паука",
+  "tr": "Evlerin en dayanıksızı ise şüphesiz örümceğin yuvasıdır",
+  "fr": "la maison la plus fragile est celle de l'araignée",
+  "id": "rumah yang paling lemah adalah rumah laba-laba",
+  "ur": "تمام گھروں سے کمزور مکڑی کا گھر ہے",
+  "bn": "সব ঘরের মধ্যে মাকড়সার ঘরই তো অধিক দুর্বল",
+  "de": "das schwächste Haus ist fürwahr das Haus der Spinne"
+ },
+ "No creature on the earth, nor bird that flies with its wings, but is a community like you.": {
+  "uz": "Ер юзидаги юрувчи ҳар бир жонзот ва икки қаноти ила учувчи қуш борки, ҳаммаси сиз каби умматлардир",
+  "ru": "Все живые существа на земле и птицы, летающие на двух крыльях, являются подобными вам сообществами",
+  "tr": "Yerde yürüyen hayvanlar ve kanatlarıyla uçan kuşlar da ancak sizin gibi birer toplulukturlar",
+  "fr": "Nulle bête marchant sur terre, nul oiseau volant de ses ailes, qui ne soit comme vous en communauté",
+  "id": "tiadalah binatang-binatang yang ada di bumi dan burung-burung yang terbang dengan kedua sayapnya, melainkan umat (juga) seperti kamu",
+  "ur": "زمین میں جو چلنے پھرنے والا (حیوان) یا دو پروں سے اڑنے والا جانور ہے ان کی بھی تم لوگوں کی طرح جماعتیں ہیں",
+  "bn": "যত প্রকার প্রাণী পৃথিবীতে বিচরণশীল রয়েছে এবং যত প্রকার পাখী দু’ ডানাযোগে উড়ে বেড়ায় তারা সবাই তোমাদের মতই একেকটি শ্রেণী",
+  "de": "Es gibt kein Tier auf der Erde und keinen Vogel, der mit seinen Flügeln fliegt, die nicht Gemeinschaften wären gleich euch"
+ },
+ "communities like you": {
+  "uz": "сиз каби умматлардир",
+  "ru": "подобными вам сообществами",
+  "tr": "sizin gibi birer toplulukturlar",
+  "fr": "comme vous en communauté",
+  "id": "umat (juga) seperti kamu",
+  "ur": "تم لوگوں کی طرح جماعتیں ہیں",
+  "bn": "তোমাদের মতই একেকটি শ্রেণী",
+  "de": "Gemeinschaften wären gleich euch"
+ },
+ "Do they not look at the camels, how they were created?": {
+  "uz": "Улар назар солмасларми; Туянинг қандай яратилганига",
+  "ru": "Неужели они не видят, как созданы верблюды",
+  "tr": "devenin nasıl yaratıldığına",
+  "fr": "Ne considèrent-ils donc pas les chameaux, comment ils ont été créés",
+  "id": "Maka apakah mereka tidak memperhatikan unta bagaimana dia diciptakan",
+  "ur": "یہ لوگ اونٹوں کی طرف نہیں دیکھتے کہ کیسے (عجیب) پیدا کیے گئے ہیں",
+  "bn": "তারা কি উষ্ট্রের প্রতি লক্ষ্য করে না যে, তা কিভাবে সৃষ্টি করা হয়েছে?",
+  "de": "Schauen sie denn nicht zu den Kamelen, wie sie erschaffen worden sind"
+ },
+ "spread their wings and fold them": {
+  "uz": "(қаноатларини) ёйиб ва йиғаётган қушни",
+  "ru": "простирают и складывают крылья",
+  "tr": "Üzerlerinde kanat çırpan dizi dizi kuşları",
+  "fr": "déployant et repliant leurs ailes tour à tour",
+  "id": "mengembangkan dan mengatupkan sayapnya",
+  "ur": "پروں کو پھیلائے رہتے ہیں اور ان کو سکیڑ بھی لیتے ہیں",
+  "bn": "পাখা বিস্তারকারী ও পাখা সংকোচনকারী",
+  "de": "ihre Flügel ausgebreitet halten und einziehen"
+ },
+ "none holds them but the Most Merciful.": {
+  "uz": "Уларни Роҳмандан бошқа ушлаб турувчи йўқ",
+  "ru": "Никто не удерживает их, кроме Милостивого",
+  "tr": "Onları havada Rahman olan Allah'tan başkası tutmuyor",
+  "fr": "Seul le Tout Miséricordieux les soutient",
+  "id": "Tidak ada yang menahannya (di udara) selain Yang Maha Pemurah",
+  "ur": "خدا کے سوا انہیں کوئی تھام نہیں سکتا",
+  "bn": "রহমান আল্লাহ-ই তাদেরকে স্থির রাখেন",
+  "de": "Nur der Allerbarmer hält sie"
+ },
+ "None holds them": {
+  "uz": "Уларни Роҳмандан бошқа ушлаб турувчи йўқ",
+  "ru": "Никто не удерживает их",
+  "tr": "Onları havada Rahman olan Allah'tan başkası tutmuyor",
+  "fr": "Seul le Tout Miséricordieux les soutient",
+  "id": "Tidak ada yang menahannya",
+  "ur": "انہیں کوئی تھام نہیں سکتا",
+  "bn": "তাদেরকে স্থির রাখেন",
+  "de": "Nur der Allerbarmer hält sie"
+ },
+ "He creates you in your mothers' wombs… within three darknesses": {
+  "uz": "У сизни оналарингиз қорнида уч зулмат ичида",
+  "ru": "Он создает вас в утробах ваших матерей: одно творение появляется вслед за другим в трех мраках",
+  "tr": "sizi annelerinizin karınlarında üç türlü karanlık içinde",
+  "fr": "Il vous crée dans les ventres de vos mères, création après création, dans trois ténèbres",
+  "id": "Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan",
+  "ur": "وہی تم کو تمہاری ماؤں کے پیٹ میں (پہلے) ایک طرح پھر دوسری طرح تین اندھیروں میں بناتا ہے",
+  "bn": "তিনি তোমাদেরকে সৃষ্টি করেছেন তোমাদের মাতৃগর্ভে পর্যায়ক্রমে একের পর এক ত্রিবিধ অন্ধকারে",
+  "de": "Er erschafft euch in den Leibern eurer Mütter, eine Schöpfung nach der anderen in dreifacher Finsternis"
+ },
+ "mixed drop": {
+  "uz": "аралаш нутфадан",
+  "ru": "смешанной капли",
+  "tr": "katışık bir nutfeden",
+  "fr": "d'une goutte de sperme mélangé [aux composantes diverses]",
+  "id": "setetes mani yang bercampur",
+  "ur": "نطفہٴ مخلوط",
+  "bn": "মিশ্র শুক্রবিন্দু",
+  "de": "einem Samentropfen, einem Gemisch"
+ },
+ "Every time their skins are burned, We replace them with other skins so they may taste the punishment": {
+  "uz": "Қачонки, терилари етиб пишганда, азобни тортишлари учун бошқа тери алмаштирамиз",
+  "ru": "Всякий раз, когда их кожа приготовится, Мы заменим ее другой кожей, чтобы они вкусили мучения",
+  "tr": "derilerinin her yanışında, azabı tatmaları için onları başka derilerle değiştireceğiz",
+  "fr": "Chaque fois que leurs peaux auront été consumées, Nous leur donnerons d'autres peaux en échange afin qu'ils goûtent au châtiment",
+  "id": "Setiap kali kulit mereka hangus, Kami ganti kulit mereka dengan kulit yang lain, supaya mereka merasakan azab",
+  "ur": "جب ان کی کھالیں گل (اور جل) جائیں گی تو ہم اور کھالیں بدل دیں گے تاکہ (ہمیشہ) عذاب (کا مزہ چکھتے) رہیں",
+  "bn": "তাদের চামড়াগুলো যখন জ্বলে-পুড়ে যাবে, তখন আবার আমি তা পালটে দেব অন্য চামড়া দিয়ে, যাতে তারা আযাব আস্বাদন করতে থাকে",
+  "de": "Jedesmal, wenn ihre Haut verbrannt ist, tauschen Wir sie ihnen gegen eine andere Haut aus, damit sie die Strafe kosten"
+ },
+ "We will seize him by the forelock, a lying, sinful forelock": {
+  "uz": "пешонасидан шиддатла тутамиз… Ёлғончи, хатокор пешонасидан",
+  "ru": "Мы схватим его за хохол… хохол лживый, грешный",
+  "tr": "onu perçeminden… Yalancı ve günahkar perçeminden",
+  "fr": "Nous le saisirons certes, par le toupet… le toupet d'un menteur, d'un pécheur",
+  "id": "Kami tarik ubun-ubunnya… ubun-ubun orang yang mendustakan lagi durhaka",
+  "ur": "ہم (اس کی) پیشانی کے بال پکڑ گھسیٹیں گے… اس جھوٹے خطاکار کی پیشانی کے بال",
+  "bn": "আমি মস্তকের সামনের কেশগুচ্ছ ধরে হেঁচড়াবই… মিথ্যাচারী, পাপীর কেশগুচ্ছ",
+  "de": "Wir ihn ganz gewiß an der Stirnlocke packen und ziehen… einer Stirnlocke, einer lügnerischen, einer verfehlt handelnden"
+ },
+ "Lying, sinful forelock": {
+  "uz": "Ёлғончи, хатокор пешонасидан",
+  "ru": "хохол лживый, грешный",
+  "tr": "Yalancı ve günahkar perçeminden",
+  "fr": "le toupet d'un menteur, d'un pécheur",
+  "id": "ubun-ubun orang yang mendustakan lagi durhaka",
+  "ur": "اس جھوٹے خطاکار کی پیشانی کے بال",
+  "bn": "মিথ্যাচারী, পাপীর কেশগুচ্ছ",
+  "de": "einer Stirnlocke, einer lügnerischen, einer verfehlt handelnden"
+ },
+ "like an old date-palm stalk": {
+  "uz": "эски (хурмо) шингили",
+  "ru": "старой пальмовой ветви",
+  "tr": "kuru bir hurma dalına",
+  "fr": "comme la palme vieillie",
+  "id": "bentuk tandan yang tua",
+  "ur": "کھجور کی پرانی شاخ کی طرح",
+  "bn": "পুরাতন খর্জুর শাখার অনুরূপ",
+  "de": "wie ein alter Dattelrispenstiel"
+ },
+ "We strip the day from the night": {
+  "uz": "Биз уни кундуздан шилиб оламиз",
+  "ru": "ночь, которую Мы отделяем ото дня",
+  "tr": "gündüzü ondan sıyırırız",
+  "fr": "Nous en écorchons le jour",
+  "id": "Kami tanggalkan siang dari malam itu",
+  "ur": "اس میں سے ہم دن کو کھینچ لیتے ہیں",
+  "bn": "আমি তা থেকে দিনকে অপসারিত করি",
+  "de": "Wir ziehen von ihr den Tag weg"
+ },
+ "You see the mountains, thinking them fixed, while they pass like clouds": {
+  "uz": "Тоғларни кўриб, қимирламай турибди деб ҳисоблайсан. Ҳолбуки, улар булутнинг ўтишидек ўтурлар",
+  "ru": "И ты увидишь, что горы, которые ты считал неподвижными, придут в движение, словно облака",
+  "tr": "Dağları yerinde donmuş gibi durur görürsün, oysa onlar bulutlar gibi geçerler",
+  "fr": "Et tu verras les montagnes - tu les crois figées - alors qu'elles passent comme des nuages",
+  "id": "kamu lihat gunung-gunung itu, kamu sangka dia tetap di tempatnya, padahal ia berjalan sebagai jalannya awan",
+  "ur": "تم پہاڑوں کو دیکھتے ہو تو خیال کرتے ہو کہ (اپنی جگہ پر) کھڑے ہیں مگر وہ (اس روز) اس طرح اُڑے پھریں گے جیسے بادل",
+  "bn": "তুমি পর্বতমালাকে দেখে অচল মনে কর, অথচ সেদিন এগুলো মেঘমালার মত চলমান হবে",
+  "de": "Und du siehst die Berge, von denen du meinst, sie seien unbeweglich, während sie wie Wolken vorbeiziehen"
+ },
+ "passing like clouds": {
+  "uz": "улар булутнинг ўтишидек ўтурлар",
+  "ru": "словно облака",
+  "tr": "onlar bulutlar gibi geçerler",
+  "fr": "elles passent comme des nuages",
+  "id": "ia berjalan sebagai jalannya awan",
+  "ur": "جیسے بادل",
+  "bn": "মেঘমালার মত চলমান",
+  "de": "wie Wolken vorbeiziehen"
+ },
+ "By the sky that returns": {
+  "uz": "Қайтувчи (ёмғир) соҳиби бўлган осмон билан қасам",
+  "ru": "Клянусь небом возвращающим",
+  "tr": "Dönüşlü göğe",
+  "fr": "Par le ciel qui fait revenir la pluie",
+  "id": "Demi langit yang mengandung hujan",
+  "ur": "آسمان کی قسم جو مینہ برساتا ہے",
+  "bn": "শপথ চক্রশীল আকাশের",
+  "de": "Beim Himmel mit der Wiederkehr"
+ },
+ "We will be its guardian.": {
+  "uz": "албатта, уни Биз муҳофаза қилурмиз",
+  "ru": "Мы оберегаем его",
+  "tr": "onun koruyucusu elbette Biziz",
+  "fr": "c'est Nous qui en sommes gardien",
+  "id": "Kami benar-benar memeliharanya",
+  "ur": "ہم ہی اس کے نگہبان ہیں",
+  "bn": "আমি নিজেই এর সংরক্ষক",
+  "de": "Wir werden wahrlich ihr Hüter sein"
+ },
+ "the flood of the dam": {
+  "uz": "арим селини",
+  "ru": "поток, прорвавший плотину",
+  "tr": "Arim selini",
+  "fr": "l'inondation du Barrage",
+  "id": "banjir yang besar",
+  "ur": "زور کا سیلاب",
+  "bn": "প্রবল বন্যা",
+  "de": "die Flut des Staudammes"
+ },
+ "companions of al-Ḥijr": {
+  "uz": "Ҳижр эгалари",
+  "ru": "Жители Хиджра",
+  "tr": "Hicr halkı",
+  "fr": "les gens d'al-Hijr",
+  "id": "penduduk-penduduk kota Al Hijr",
+  "ur": "(وادی) حجر کے رہنے والوں",
+  "bn": "হিজরের বাসিন্দারা",
+  "de": "die Bewohner von al-Higr"
+ },
+ "for an appointed term": {
+  "uz": "номланган ажалгача",
+  "ru": "к назначенному сроку",
+  "tr": "belli bir süreye kadar",
+  "fr": "vers un terme fixé",
+  "id": "hingga waktu yang ditentukan",
+  "ur": "ایک میعاد معین تک",
+  "bn": "নির্দিষ্ট সময় মোতাবেক",
+  "de": "auf eine festgesetzte Frist"
+ },
+ "Each runs for an appointed term": {
+  "uz": "Ҳар бири номланган ажалгача юрадир",
+  "ru": "они движутся к назначенному сроку",
+  "tr": "her biri belli bir süreye kadar hareket edecek",
+  "fr": "chacun poursuivant sa course vers un terme fixé",
+  "id": "Masing-masing beredar hingga waktu yang ditentukan",
+  "ur": "ہر ایک ایک میعاد معین تک گردش کر رہا ہے",
+  "bn": "প্রত্যেকে নির্দিষ্ট সময় মোতাবেক আবর্তন করে",
+  "de": "jedes läuft auf eine festgesetzte Frist zu"
+ },
+ "By the sky full of pathways (ḥubuk).": {
+  "uz": "Гўзал, мустаҳкам осмон билан қасам",
+  "ru": "Клянусь небом, обладающим прекрасным обликом",
+  "tr": "İçinde yörüngeler bulunan göğe and olsun ki",
+  "fr": "Par le ciel aux voies parfaitement tracées",
+  "id": "Demi langit yang mempunyai jalan-jalan",
+  "ur": "اور آسمان کی قسم جس میں رسے ہیں",
+  "bn": "পথবিশিষ্ট আকাশের কসম",
+  "de": "Beim Himmel in seiner Vollkommenheit"
+ },
+ "Not an atom's weight… nor anything smaller than that.": {
+  "uz": "зарра вазнича, ундан кичик нарса",
+  "ru": "даже то, что весом с мельчайшую частицу, или меньше нее",
+  "tr": "Göklerde ve yerde zerre kadar olanlar bile O'nun ilminin dışında değildir. Bundan daha küçüğü",
+  "fr": "Rien ne Lui échappe fût-il du poids d'un atome dans les cieux, comme sur la terre. Et rien n'existe de plus petit",
+  "id": "sebesar zarrahpun yang ada di langit dan yang ada di bumi dan tidak ada (pula) yang lebih kecil dari itu",
+  "ur": "ذرہ بھر چیز بھی اس سے پوشیدہ نہیں (نہ) آسمانوں میں اور نہ زمین میں اور کوئی چیز ذرے سے چھوٹی",
+  "bn": "অণু পরিমাণ কিছু, না তদপেক্ষা ক্ষুদ্র",
+  "de": "das Gewicht eines Stäubchens, weder in den Himmeln noch auf der Erde. Und es gibt nichts, was kleiner ist als dies"
+ },
+ "anything smaller than that": {
+  "uz": "ундан кичикроқ",
+  "ru": "или меньше того",
+  "tr": "Bundan daha küçüğü",
+  "fr": "un poids plus petit",
+  "id": "yang lebih kecil dari itu",
+  "ur": "نہ کوئی چیز اس سے چھوٹی ہے",
+  "bn": "না এর চেয়ে ক্ষুদ্র কোন কিছু",
+  "de": "nichts Kleineres als dies"
+ },
+ "Smaller than that": {
+  "uz": "ундан кичикроқ",
+  "ru": "или меньше того",
+  "tr": "Bundan daha küçüğü",
+  "fr": "un poids plus petit",
+  "id": "yang lebih kecil dari itu",
+  "ur": "نہ کوئی چیز اس سے چھوٹی ہے",
+  "bn": "না এর চেয়ে ক্ষুদ্র কোন কিছু",
+  "de": "nichts Kleineres als dies"
+ },
+ "by the sea set aflame": {
+  "uz": "Ва тўлган денгиз билан қасам",
+  "ru": "Клянусь морем разожженным",
+  "tr": "kaynayacak denize",
+  "fr": "par la Mer portée à ébullition",
+  "id": "laut yang di dalam tanahnya ada api",
+  "ur": "ابلتے ہوئے دریا کی",
+  "bn": "উত্তাল সমুদ্রের",
+  "de": "bei dem angefüllten Meer"
+ },
+ "set on fire on the Last Day": {
+  "uz": "денгизлар аланга олиб ёнса",
+  "ru": "когда моря запылают",
+  "tr": "Denizler kaynaştırıldığı zaman",
+  "fr": "les mers allumées",
+  "id": "apabila lautan dijadikan meluap",
+  "ur": "جب دریا آگ ہو جائیں گے",
+  "bn": "যখন সমুদ্রকে উত্তাল করে তোলা হবে",
+  "de": "wenn die Meere zum Überfließen gebracht werden"
+ },
+ "You see the earth stilled; then when We send down rain on it, it stirs and swells.": {
+  "uz": "ерни қақраган ҳолда кўришингдир. Бас, Биз унинг устидан сув тушурсак, у қимирлар ва ўсадир",
+  "ru": "ты видишь землю иссохшей, но когда Мы ниспосылаем на нее воду, она приходит в движение и набухает",
+  "tr": "Kupkuru gördüğün yeryüzünün, Biz ona su indirdiğimiz zaman harekete geçmesi, kabarması",
+  "fr": "tu vois la terre humiliée (toute nue). Puis aussitôt que Nous faisons descendre l'eau sur elle, elle se soulève et augmente [de volume]",
+  "id": "kau lihat bumi kering dan gersang, maka apabila Kami turunkan air di atasnya, niscaya ia bergerak dan subur",
+  "ur": "تو زمین کو دبی ہوئی (یعنی خشک) دیکھتا ہے۔ جب ہم اس پر پانی برسا دیتے ہیں تو شاداب ہوجاتی اور پھولنے لگتی ہے",
+  "bn": "তুমি ভূমিকে দেখবে অনুর্বর পড়ে আছে। অতঃপর আমি যখন তার উপর বৃষ্টি বর্ষণ করি, তখন সে শস্যশ্যামল ও স্ফীত হয়",
+  "de": "du die Erde demütig siehst. Wenn Wir aber Wasser auf sie herabkommen lassen, regt sie sich und schwillt"
+ },
+ "tight and constricted, as though climbing into the sky": {
+  "uz": "унинг кўксини худди осмонга кўтарилаётгандек, тор ва танг қилиб қўядир",
+  "ru": "Он сдавливает и сжимает грудь, словно тот забирается на небо",
+  "tr": "göğe yükseliyormuş gibi, kalbini dar ve sıkıntılı kılar",
+  "fr": "Il rend sa poitrine étroite et gênée, comme s'il s'efforçait de monter au ciel",
+  "id": "Allah menjadikan dadanya sesak lagi sempit, seolah-olah ia sedang mendaki langit",
+  "ur": "اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے",
+  "bn": "তার বক্ষকে সংকীর্ণ অত্যধিক সংকীর্ণ করে দেন-যেন সে সবেগে আকাশে আরোহণ করছে",
+  "de": "dem macht Er die Brust eng und bedrängt, so als ob er in den Himmel hochsteigen sollte"
+ },
+ "climbing into the sky": {
+  "uz": "осмонга кўтарилаётгандек",
+  "ru": "словно тот забирается на небо",
+  "tr": "göğe yükseliyormuş gibi",
+  "fr": "comme s'il s'efforçait de monter au ciel",
+  "id": "seolah-olah ia sedang mendaki langit",
+  "ur": "گویا وہ آسمان پر چڑھ رہا ہے",
+  "bn": "যেন সে সবেগে আকাশে আরোহণ করছে",
+  "de": "so als ob er in den Himmel hochsteigen sollte"
+ },
+ "He made fire for you from the green tree.": {
+  "uz": "У зот сизларга яшил дарахтдан олов қилиб бергандир",
+  "ru": "Он создал для вас огонь из зеленого дерева",
+  "tr": "Yaş ağaçtan size ateş çıkarandır",
+  "fr": "c'est Lui qui, de l'arbre vert, a fait pour vous du feu",
+  "id": "Tuhan yang menjadikan untukmu api dari kayu yang hijau",
+  "ur": "جس نے تمہارے لئے سبز درخت سے آگ پیدا کی",
+  "bn": "যিনি তোমাদের জন্যে সবুজ বৃক্ষ থেকে আগুন উৎপন্ন করেন",
+  "de": "Der euch aus grünen Bäumen Feuer gemacht hat"
+ },
+ "two gardens, on the right and on the left": {
+  "uz": "ўнг ва чапдан икки боғ бор эди",
+  "ru": "два сада справа и слева",
+  "tr": "Sağlı sollu iki bahçe vardı",
+  "fr": "deux jardins, l'un à droite et l'autre à gauche",
+  "id": "dua buah kebun di sebelah kanan dan di sebelah kiri",
+  "ur": "دو باغ (ایک) داہنی طرف اور (ایک) بائیں طرف",
+  "bn": "দুটি উদ্যান, একটি ডানদিকে, একটি বামদিকে",
+  "de": "zwei Gärten zur Rechten und zur Linken"
+ }
+}
