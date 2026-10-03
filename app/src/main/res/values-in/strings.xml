@@ -55,6 +55,9 @@
     <string name="more_sub">Atur sesuai keinginan Anda, dan lihat bagaimana aplikasi ini dibuat.</string>
     <string name="panel_language">Bahasa</string>
     <string name="language_note">Satu pilihan untuk seluruh aplikasi: tampilan, fakta, dan terjemahan ayat.</string>
+    <string name="choose_language_title">Pilih bahasa Anda</string>
+    <string name="choose_language_sub">Berlaku untuk tampilan, fakta, dan terjemahan ayat. Anda bisa mengubahnya nanti di «Lainnya».</string>
+    <string name="choose_language_continue">Lanjutkan</string>
     <string name="panel_arabic">Ukuran teks Arab</string>
     <string name="panel_appearance">Tampilan</string>
     <string name="theme_system">Sistem</string>

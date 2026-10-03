@@ -64,6 +64,7 @@ import com.example.quranfacts.ui.detail.FactDetailScreen
 import com.example.quranfacts.ui.explore.ExploreScreen
 import com.example.quranfacts.ui.home.HomeScreen
 import com.example.quranfacts.ui.more.MoreScreen
+import com.example.quranfacts.ui.onboarding.LanguagePickerScreen
 import com.example.quranfacts.ui.premium.PremiumScreen
 import com.example.quranfacts.ui.saved.SavedScreen
 import com.example.quranfacts.ui.timeline.TimelineScreen
@@ -108,13 +109,16 @@ fun AppRoot(vm: AppViewModel) {
     val theme by vm.theme.collectAsStateWithLifecycle()
     val state by vm.state.collectAsStateWithLifecycle()
     val language by vm.language.collectAsStateWithLifecycle()
+    val languageConfirmed by vm.languageConfirmed.collectAsStateWithLifecycle()
     Localized(language) {
         QuranFactsTheme(theme) {
             Box(Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background)) {
                 when (val s = state) {
                     DataState.Loading -> LoadingScreen()
                     is DataState.Failed -> ErrorScreen(s.message, onRetry = vm::load)
-                    is DataState.Ready -> MainScaffold(s.doc, vm)
+                    is DataState.Ready ->
+                        if (languageConfirmed) MainScaffold(s.doc, vm)
+                        else LanguagePickerScreen(s.doc.translations, language, vm::setLanguage, vm::confirmLanguage)
                 }
             }
         }

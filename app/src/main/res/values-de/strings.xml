@@ -55,6 +55,9 @@
     <string name="more_sub">Passen Sie die App an und sehen Sie, wie sie entsteht.</string>
     <string name="panel_language">Sprache</string>
     <string name="language_note">Eine Auswahl für die ganze App: Bildschirme, Fakten und Versübersetzung.</string>
+    <string name="choose_language_title">Sprache wählen</string>
+    <string name="choose_language_sub">Sie gilt für die Oberfläche, die Fakten und die Versübersetzung. Später können Sie sie unter „Mehr“ ändern.</string>
+    <string name="choose_language_continue">Weiter</string>
     <string name="panel_arabic">Größe des arabischen Textes</string>
     <string name="panel_appearance">Darstellung</string>
     <string name="theme_system">System</string>

@@ -55,6 +55,9 @@
     <string name="more_sub">اسے اپنے مطابق بنائیں، اور دیکھیں کہ یہ کیسے بنی ہے۔</string>
     <string name="panel_language">زبان</string>
     <string name="language_note">پوری ایپ کے لیے ایک ہی انتخاب: اسکرینیں، حقائق اور آیات کا ترجمہ۔</string>
+    <string name="choose_language_title">اپنی زبان منتخب کریں</string>
+    <string name="choose_language_sub">یہ اسکرینوں، حقائق اور آیات کے ترجمے کی زبان طے کرتی ہے۔ آپ اسے بعد میں «مزید» میں بدل سکتے ہیں۔</string>
+    <string name="choose_language_continue">جاری رکھیں</string>
     <string name="panel_arabic">عربی متن کا سائز</string>
     <string name="panel_appearance">ظاہری شکل</string>
     <string name="theme_system">سسٹم</string>

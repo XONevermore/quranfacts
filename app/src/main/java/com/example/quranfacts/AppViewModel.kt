@@ -33,6 +33,10 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     private val _language = MutableStateFlow(prefs.language)
     val language: StateFlow<String> = _language.asStateFlow()
 
+    /** False until the person has confirmed a language on the first-run screen (see LanguagePickerScreen). */
+    private val _languageConfirmed = MutableStateFlow(prefs.languageConfirmed)
+    val languageConfirmed: StateFlow<Boolean> = _languageConfirmed.asStateFlow()
+
     private val _state = MutableStateFlow<DataState>(DataState.Loading)
 
     /** The facts in the chosen language: facts.json with that language's text overlay applied. */
@@ -68,6 +72,11 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
     fun setLanguage(code: String) {
         prefs.language = code
         _language.value = code
+    }
+
+    fun confirmLanguage() {
+        prefs.languageConfirmed = true
+        _languageConfirmed.value = true
     }
 
     fun setArabicSize(size: Float) {

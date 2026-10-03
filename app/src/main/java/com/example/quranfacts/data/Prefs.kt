@@ -17,6 +17,14 @@ class Prefs(context: Context) {
         get() = sp.getString(K_LANG, null) ?: I18n.deviceLanguage()
         set(v) = sp.edit { putString(K_LANG, v) }
 
+    /**
+     * Whether the person has been through the first-run language choice. Someone who already picked a language
+     * in More before that screen existed counts as done.
+     */
+    var languageConfirmed: Boolean
+        get() = sp.getBoolean(K_LANG_CONFIRMED, sp.contains(K_LANG))
+        set(v) = sp.edit { putBoolean(K_LANG_CONFIRMED, v) }
+
     var arabicSize: Float
         get() = sp.getFloat(K_ARABIC_SIZE, 30f)
         set(v) = sp.edit { putFloat(K_ARABIC_SIZE, v) }
@@ -51,6 +59,7 @@ class Prefs(context: Context) {
 
     private companion object {
         const val K_LANG = "language"
+        const val K_LANG_CONFIRMED = "language_confirmed"
         const val K_ARABIC_SIZE = "arabic_size"
         const val K_THEME = "theme"
         const val K_BOOKMARKS = "bookmarks"

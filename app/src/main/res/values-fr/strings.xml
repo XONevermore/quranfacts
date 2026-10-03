@@ -55,6 +55,9 @@
     <string name="more_sub">Personnalisez l’application et découvrez comment elle est faite.</string>
     <string name="panel_language">Langue</string>
     <string name="language_note">Un seul choix pour toute l’application : les écrans, les faits et la traduction des versets.</string>
+    <string name="choose_language_title">Choisissez votre langue</string>
+    <string name="choose_language_sub">Elle s’applique aux écrans, aux faits et à la traduction des versets. Vous pourrez la changer plus tard dans « Plus ».</string>
+    <string name="choose_language_continue">Continuer</string>
     <string name="panel_arabic">Taille du texte arabe</string>
     <string name="panel_appearance">Apparence</string>
     <string name="theme_system">Système</string>

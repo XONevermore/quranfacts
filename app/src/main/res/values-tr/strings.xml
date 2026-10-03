@@ -55,6 +55,9 @@
     <string name="more_sub">Uygulamayı kendinize göre ayarlayın ve nasıl hazırlandığını görün.</string>
     <string name="panel_language">Dil</string>
     <string name="language_note">Tüm uygulama için tek bir seçim: ekranlar, bilgiler ve âyet çevirisi.</string>
+    <string name="choose_language_title">Dilinizi seçin</string>
+    <string name="choose_language_sub">Ekranların, olguların ve âyet çevirisinin dili buna göre ayarlanır. Daha sonra «Daha Fazla» bölümünden değiştirebilirsiniz.</string>
+    <string name="choose_language_continue">Devam</string>
     <string name="panel_arabic">Arapça yazı boyutu</string>
     <string name="panel_appearance">Görünüm</string>
     <string name="theme_system">Sistem</string>

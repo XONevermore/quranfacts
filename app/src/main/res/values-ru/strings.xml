@@ -55,6 +55,9 @@
     <string name="more_sub">Настройте приложение под себя и узнайте, как оно устроено.</string>
     <string name="panel_language">Язык</string>
     <string name="language_note">Один выбор для всего приложения: экраны, факты и перевод аятов.</string>
+    <string name="choose_language_title">Выберите язык</string>
+    <string name="choose_language_sub">Это язык экранов, фактов и перевода аятов. Позже его можно изменить в разделе «Ещё».</string>
+    <string name="choose_language_continue">Продолжить</string>
     <string name="panel_arabic">Размер арабского текста</string>
     <string name="panel_appearance">Оформление</string>
     <string name="theme_system">Системная</string>

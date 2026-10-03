@@ -55,6 +55,9 @@
     <string name="more_sub">নিজের মতো সাজিয়ে নিন, আর দেখুন এটি কীভাবে তৈরি।</string>
     <string name="panel_language">ভাষা</string>
     <string name="language_note">পুরো অ্যাপের জন্য একটি পছন্দ: স্ক্রিন, তথ্য ও আয়াতের অনুবাদ।</string>
+    <string name="choose_language_title">আপনার ভাষা বেছে নিন</string>
+    <string name="choose_language_sub">এটি স্ক্রিন, তথ্য ও আয়াতের অনুবাদের ভাষা ঠিক করে। পরে «আরও» থেকে বদলাতে পারবেন।</string>
+    <string name="choose_language_continue">চালিয়ে যান</string>
     <string name="panel_arabic">আরবি লেখার আকার</string>
     <string name="panel_appearance">চেহারা</string>
     <string name="theme_system">সিস্টেম</string>

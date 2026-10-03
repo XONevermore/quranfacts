@@ -55,6 +55,9 @@
     <string name="more_sub">Уни ўзингизга мослаштиринг ва қандай тайёрланганини билиб олинг.</string>
     <string name="panel_language">Тил</string>
     <string name="language_note">Бутун илова учун битта танлов: экранлар, фактлар ва оят таржимаси.</string>
+    <string name="choose_language_title">Тилни танланг</string>
+    <string name="choose_language_sub">Бу экранлар, фактлар ва оятлар таржимаси тилини белгилайди. Кейинроқ «Яна» бўлимида ўзгартиришингиз мумкин.</string>
+    <string name="choose_language_continue">Давом этиш</string>
     <string name="panel_arabic">Араб ёзуви ўлчами</string>
     <string name="panel_appearance">Кўриниши</string>
     <string name="theme_system">Тизим</string>

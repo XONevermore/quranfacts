@@ -38,8 +38,8 @@ android {
         applicationId = "com.mymax.quranscience"
         minSdk = 24
         targetSdk = 36
-        versionCode = 2
-        versionName = "1.1"
+        versionCode = 3
+        versionName = "1.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders["admobAppId"] = admobTestAppId
@@ -81,6 +81,14 @@ android {
     buildFeatures {
         compose = true
         buildConfig = true
+    }
+    bundle {
+        // The app has its own language setting (More, and the first-run picker), independent of the phone's. With
+        // Play's default language splits an English phone only receives res/values and the UI stays English
+        // even after picking Russian, so every language's strings must ship in the base APK.
+        language {
+            enableSplit = false
+        }
     }
     testOptions {
         // The data-integrity tests read assets/facts.json straight from disk, so Gradle must
