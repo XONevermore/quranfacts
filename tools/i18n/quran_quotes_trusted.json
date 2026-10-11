@@ -858,5 +858,45 @@
   "ur": "دو باغ (ایک) داہنی طرف اور (ایک) بائیں طرف",
   "bn": "দুটি উদ্যান, একটি ডানদিকে, একটি বামদিকে",
   "de": "zwei Gärten zur Rechten und zur Linken"
+ },
+ "six days": {
+  "uz": "олти кунда",
+  "ru": "шесть дней",
+  "tr": "altı günde",
+  "fr": "six jours",
+  "id": "enam masa",
+  "ur": "چھ دن",
+  "bn": "ছয়দিনে",
+  "de": "sechs Tagen"
+ },
+ "in six days": {
+  "uz": "олти кунда",
+  "ru": "за шесть дней",
+  "tr": "altı günde",
+  "fr": "en six jours",
+  "id": "dalam enam masa",
+  "ur": "چھ دن میں",
+  "bn": "ছয়দিনে",
+  "de": "in sechs Tagen"
+ },
+ "like a thousand years of those which you count": {
+  "uz": "сиз санайдиган минг йилдекдир",
+  "ru": "равен тысяче лет по тому, как вы считаете",
+  "tr": "saydıklarınızdan bin yıl gibidir",
+  "fr": "équivaut à mille ans de ce que vous comptez",
+  "id": "seperti seribu tahun menurut perhitunganmu",
+  "ur": "تمہارے حساب کے رو سے ہزار برس کے برابر ہے",
+  "bn": "তোমাদের গণনার এক হাজার বছরের সমান",
+  "de": "wie tausend Jahre nach eurer Berechnung"
+ },
+ "in two days": {
+  "uz": "икки кунда",
+  "ru": "за два дня",
+  "tr": "iki günde",
+  "fr": "en deux jours",
+  "id": "dalam dua masa",
+  "ur": "دو دن میں",
+  "bn": "দু’দিনে",
+  "de": "in zwei Tagen"
  }
 }

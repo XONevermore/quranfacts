@@ -164,6 +164,8 @@
  "moon-phases.gap.0": "This is naked-eye observation; Babylonians and Greeks described the same phases.",
  "moon-phases.gap.1": "The verse does not say why the Moon has phases.",
  "moon-phases.gap.2": "The date-palm image is a picture from Arabian life, not a measurement.",
+ "moon-phases.pat.0.claim": "The word qamar (moon) appears 27 times, and the Moon goes around the Earth in 27.3 days.",
+ "moon-phases.pat.0.check": "The count is right: 27, in all its forms. But the stages in 36:39 follow the month from new moon to new moon, 29.5 days, which is also the month of the Islamic calendar; 27.3 days is one turn measured against the stars. And most such counts match nothing: the Sun, shams, appears 33 times.",
  "moon-phases.media.0.cap": "A waning crescent Moon.",
  "moon-phases.media.1.cap": "Galileo's drawings of the Moon in its phases.",
  "moon-phases.media.2.cap": "NASA: a full year of the Moon's phases.",

@@ -124,6 +124,24 @@ data class Fit(
     val gaps: List<String> = emptyList(),
 )
 
+/**
+ * A count of verses, words or letters that circulates with a fact ("75:4 is verse 5555"), recounted by
+ * tools/quran_count.py against the full text. [verdict] is one of [VERDICTS].
+ */
+@Serializable
+data class Pattern(
+    val claim: String,
+    val check: String,
+    val verdict: String,
+) {
+    companion object {
+        const val HOLDS = "holds"
+        const val DEPENDS = "depends"
+        const val FAILS = "fails"
+        val VERDICTS = setOf(HOLDS, DEPENDS, FAILS)
+    }
+}
+
 @Serializable
 data class Source(
     val title: String,
@@ -147,6 +165,7 @@ data class Fact(
     val proofHeading: String = "How it was found out",
     val proof: List<ProofStep> = emptyList(),
     val fit: Fit = Fit(),
+    val patterns: List<Pattern> = emptyList(),
     val media: List<Media> = emptyList(),
     val sources: List<Source> = emptyList(),
 ) {

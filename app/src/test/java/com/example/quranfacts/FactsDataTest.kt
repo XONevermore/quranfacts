@@ -1,6 +1,7 @@
 package com.example.quranfacts
 
 import com.example.quranfacts.data.FactsDoc
+import com.example.quranfacts.data.Pattern
 import kotlinx.serialization.json.Json
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
@@ -88,6 +89,17 @@ class FactsDataTest {
         doc.facts.forEach {
             assertTrue("${it.id}: nothing under 'fits'", it.fit.fits.isNotEmpty())
             assertTrue("${it.id}: nothing under 'gaps' (an honest match always has some)", it.fit.gaps.isNotEmpty())
+        }
+    }
+
+    @Test
+    fun numberPatternsCarryAVerdictAndTheRecount() {
+        // The counts themselves are recounted against the full text by tools/quran_count.py at build time.
+        doc.facts.forEach { f ->
+            f.patterns.forEach {
+                assertTrue("${f.id}: unknown verdict '${it.verdict}'", it.verdict in Pattern.VERDICTS)
+                assertTrue("${f.id}: a pattern needs both the claim and what the recount found", it.claim.isNotBlank() && it.check.isNotBlank())
+            }
         }
     }
 

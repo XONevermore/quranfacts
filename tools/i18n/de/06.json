@@ -164,6 +164,8 @@
  "moon-phases.gap.0": "Dies ist Beobachtung mit bloßem Auge; Babylonier und Griechen beschrieben dieselben Phasen.",
  "moon-phases.gap.1": "Der Vers sagt nicht, warum der Mond Phasen hat.",
  "moon-phases.gap.2": "Das Dattelpalmenbild stammt aus dem arabischen Leben, es ist keine Messung.",
+ "moon-phases.pat.0.claim": "Das Wort qamar (Mond) kommt 27-mal vor, und der Mond umrundet die Erde in 27,3 Tagen.",
+ "moon-phases.pat.0.check": "Die Zählung stimmt: 27, in allen Formen. Aber die Stationen in 36:39 folgen dem Monat von Neumond zu Neumond, 29,5 Tage, was auch der Monat des islamischen Kalenders ist; 27,3 Tage sind ein Umlauf, gemessen an den Sternen. Und die meisten solcher Zählungen passen zu nichts: Die Sonne, shams, kommt 33-mal vor.",
  "moon-phases.media.0.cap": "Ein abnehmender Sichelmond.",
  "moon-phases.media.1.cap": "Galileis Zeichnungen des Mondes in seinen Phasen.",
  "moon-phases.media.2.cap": "NASA: ein ganzes Jahr der Mondphasen.",

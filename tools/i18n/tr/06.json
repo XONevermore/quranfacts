@@ -164,6 +164,8 @@
  "moon-phases.gap.0": "Bu, çıplak gözle gözlemdir; Babilliler ve Yunanlılar da aynı evreleri tarif etti.",
  "moon-phases.gap.1": "Âyet Ay’ın neden evreleri olduğunu söylemez.",
  "moon-phases.gap.2": "Hurma dalı imgesi Arap yaşamından bir tasvirdir, bir ölçüm değildir.",
+ "moon-phases.pat.0.claim": "Kamer (ay) kelimesi 27 kez geçer ve Ay, Dünya’nın çevresini 27,3 günde dolaşır.",
+ "moon-phases.pat.0.check": "Sayım doğru: bütün biçimleriyle 27. Ama 36:39. âyetteki menziller yeni aydan yeni aya kadar süren aya göredir: 29,5 gün, bu aynı zamanda hicrî takvimin ayıdır; 27,3 gün ise yıldızlara göre ölçülen bir turdur. Bu tür sayımların çoğu hiçbir şeye karşılık gelmez: Güneş, şems, 33 kez geçer.",
  "moon-phases.media.0.cap": "Küçülen hilal hâlindeki Ay.",
  "moon-phases.media.1.cap": "Galileo’nun Ay’ı evreleri içinde gösteren çizimleri.",
  "moon-phases.media.2.cap": "NASA: Ay’ın evrelerinin bir yıl boyunca görünümü.",

@@ -116,6 +116,24 @@
     <string name="ls_verdict_nocorr">Tanpa koreksi gerak Bumi, hasilnya terlalu tinggi %1$s%%. Koreksi itulah langkah yang dipertanyakan para pengkritik: ia bukan bagian dari ayat, dan justru ia yang membuat angkanya pas.</string>
     <string name="ls_verdict_solar">Memakai hari biasa 24 jam hanya menggeser hasil sebesar %1$s%%, jadi pilihan hari bukanlah penopang klaim ini.</string>
     <string name="ls_verdict_author">Ini adalah versi yang disajikan penulisnya. Hasilnya berada dalam 0,001%% dari nilai sebenarnya, tetapi hanya setelah memilih hari sideris, bulan sideris, jari-jari orbit rata-rata Bulan, dan koreksi gerak Bumi. Putuskan sendiri seberapa besar bobotnya.</string>
+    <string name="sd_title">Hitung sendiri</string>
+    <string name="sd_sub">Perhitungan populer “enam masa”, langkah demi langkah.</string>
+    <string name="sd_step1">Usia alam semesta %1$s miliar tahun (Planck, 2018).</string>
+    <string name="sd_step2">Dibagi menjadi enam “masa” yang sama: %1$s ÷ 6 = %2$s miliar tahun per masa.</string>
+    <string name="sd_step3">Bumi diciptakan “dalam dua masa” (41:9): 2 × %1$s = %2$s miliar tahun.</string>
+    <string name="sd_q_place">Di mana letak dua masa penciptaan bumi?</string>
+    <string name="sd_first">Masa 1–2</string>
+    <string name="sd_last">Masa 5–6</string>
+    <string name="sd_axis_start">%1$s miliar tahun lalu</string>
+    <string name="sd_axis_end">Hari ini</string>
+    <string name="sd_earth_tick">Garis biru: Bumi terbentuk, %1$s miliar tahun lalu</string>
+    <string name="sd_result">DUA MASA BUMI</string>
+    <string name="sd_span_last">Dimulai %1$s miliar tahun lalu</string>
+    <string name="sd_span_first">Berakhir %1$s miliar tahun lalu</string>
+    <string name="sd_true_last">Bumi terbentuk %1$s miliar tahun lalu: selisih %2$s.</string>
+    <string name="sd_true_first">Bumi terbentuk %1$s miliar tahun lalu, %2$s miliar tahun setelah masa-masa ini berakhir.</string>
+    <string name="sd_verdict_last">Di sini angkanya hanya berselisih sekitar %1$s. Untuk itu diperlukan dua pilihan yang tidak dibuat oleh ayat: enam masa yang sama panjang, dan masa bumi diletakkan paling akhir.</string>
+    <string name="sd_verdict_first">Menurut urutan dalam 41:9–12, dua masa bumi datang lebih dulu dan kecocokannya hilang. Hasilnya bergantung pada letak masa-masa itu.</string>
     <string name="cd_copy_verse">Salin ayat</string>
     <string name="cd_share_verse">Bagikan ayat</string>
     <string name="cd_open_quran">Buka di Quran.com</string>
@@ -189,6 +207,12 @@
     <string name="media_photos_video_audio">Foto, video, dan audio</string>
     <string name="sec_side">Berdampingan</string>
     <string name="sec_side_sub">Seberapa cocok?</string>
+    <string name="sec_patterns">Pola angka</string>
+    <string name="sec_patterns_sub">Hitungan yang beredar, dihitung ulang</string>
+    <string name="patterns_intro">Video pendek menghitung ayat, kata, dan huruf dalam ayat-ayat ini. Kami menghitung ulang setiap angka pada teks standar (riwayat Hafs, penomoran ayat Kufah seperti pada mushaf cetak saat ini). Hitungan yang benar pun tetap pola yang dicari setelah kejadian, bukan bukti dengan sendirinya.</string>
+    <string name="verdict_holds">Benar</string>
+    <string name="verdict_depends">Tergantung cara menghitung</string>
+    <string name="verdict_fails">Tidak benar</string>
     <string name="sec_sources">Periksa sendiri</string>
     <string name="sec_sources_sub">Sumber</string>
     <string name="sec_keep_going">Lanjutkan</string>

@@ -173,7 +173,7 @@ private fun verdict(years: Int, sidereal: Boolean, correction: Boolean, speed: D
 }
 
 @Composable
-private fun Choice(label: String, content: @Composable () -> Unit) {
+internal fun Choice(label: String, content: @Composable () -> Unit) {
     Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
         Text(label, style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.onSurfaceVariant)
         content()
@@ -181,7 +181,7 @@ private fun Choice(label: String, content: @Composable () -> Unit) {
 }
 
 @Composable
-private fun Segments(options: List<String>, selected: Int, onSelect: (Int) -> Unit) {
+internal fun Segments(options: List<String>, selected: Int, onSelect: (Int) -> Unit) {
     SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
         options.forEachIndexed { index, label ->
             SegmentedButton(
@@ -196,7 +196,7 @@ private fun Segments(options: List<String>, selected: Int, onSelect: (Int) -> Un
 }
 
 @Composable
-private fun Step(number: Int, text: String) {
+internal fun Step(number: Int, text: String) {
     Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
         Box(
             Modifier

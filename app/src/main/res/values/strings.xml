@@ -117,6 +117,24 @@
     <string name="ls_verdict_nocorr">Without the Earth-motion correction the answer is %1$s%% too high. That correction is the step critics question: it is not part of the verse, and it is what makes the number land.</string>
     <string name="ls_verdict_solar">Using an ordinary 24-hour day shifts the result by only %1$s%%, so the choice of day is not what carries the claim.</string>
     <string name="ls_verdict_author">This is the version its author presents. It lands within 0.001%% of the real value, but only after choosing the sidereal day, the sidereal month, the Moon\'s mean orbital radius and the Earth-motion correction. Decide for yourself how much weight that carries.</string>
+    <string name="sd_title">Do the maths</string>
+    <string name="sd_sub">The popular six-days calculation, every step shown.</string>
+    <string name="sd_step1">The universe is %1$s billion years old (Planck, 2018).</string>
+    <string name="sd_step2">Split into six equal “days”: %1$s ÷ 6 = %2$s billion years per day.</string>
+    <string name="sd_step3">The earth was created “in two days” (41:9): 2 × %1$s = %2$s billion years.</string>
+    <string name="sd_q_place">Where do the earth\'s two days sit?</string>
+    <string name="sd_first">Days 1–2</string>
+    <string name="sd_last">Days 5–6</string>
+    <string name="sd_axis_start">%1$s bn years ago</string>
+    <string name="sd_axis_end">Today</string>
+    <string name="sd_earth_tick">Blue line: the Earth forms, %1$s bn years ago</string>
+    <string name="sd_result">THE EARTH\'S TWO DAYS</string>
+    <string name="sd_span_last">Began %1$s billion years ago</string>
+    <string name="sd_span_first">Over by %1$s billion years ago</string>
+    <string name="sd_true_last">The Earth formed %1$s billion years ago: %2$s apart.</string>
+    <string name="sd_true_first">The Earth formed %1$s billion years ago, %2$s billion years after these days ended.</string>
+    <string name="sd_verdict_last">Here the numbers land about %1$s apart. It takes two choices the verses do not make: six equal days, and the earth\'s days placed last.</string>
+    <string name="sd_verdict_first">In the order 41:9–12 lists them, the earth\'s two days come first and the match disappears. The result depends on where the days are placed.</string>
     <string name="cd_copy_verse">Copy verse</string>
     <string name="cd_share_verse">Share verse</string>
     <string name="cd_open_quran">Open on Quran.com</string>
@@ -190,6 +208,12 @@
     <string name="media_photos_video_audio">Photos, video and audio</string>
     <string name="sec_side">Side by side</string>
     <string name="sec_side_sub">How well does it fit?</string>
+    <string name="sec_patterns">Number patterns</string>
+    <string name="sec_patterns_sub">The counts people share, recounted</string>
+    <string name="patterns_intro">Short videos count verses, words and letters in these verses. We recounted every number in the standard text (Hafs, with the Kufan verse numbering of today\'s printed Qurans). Even a count that checks out is a pattern found after the fact, not evidence on its own.</string>
+    <string name="verdict_holds">Checks out</string>
+    <string name="verdict_depends">Depends on how you count</string>
+    <string name="verdict_fails">Does not hold</string>
     <string name="sec_sources">Check it yourself</string>
     <string name="sec_sources_sub">Sources</string>
     <string name="sec_keep_going">Keep going</string>

@@ -15,7 +15,8 @@ Usage:
 
 Keys:  cat.<id>.name|tagline   claim.<id>.label|short|description
        <fact>.title|hook|sciH|proofH|science.N|stats.N.value|stats.N.label|disc.when|disc.who
-       <fact>.proof.N.title|text|cap   <fact>.fit.N   <fact>.gap.N   <fact>.media.N.cap   <fact>.word.N
+       <fact>.proof.N.title|text|cap   <fact>.fit.N   <fact>.gap.N   <fact>.pat.N.claim|check
+       <fact>.media.N.cap   <fact>.word.N
 """
 import json
 import os
@@ -68,6 +69,9 @@ def extract_pairs(doc):
                 chunk[f"{p}.fit.{n}"] = t
             for n, t in enumerate(f["fit"]["gaps"]):
                 chunk[f"{p}.gap.{n}"] = t
+            for n, pat in enumerate(f.get("patterns", [])):
+                chunk[f"{p}.pat.{n}.claim"] = pat["claim"]
+                chunk[f"{p}.pat.{n}.check"] = pat["check"]
             for n, m in enumerate(f["media"]):
                 chunk[f"{p}.media.{n}.cap"] = m["caption"]
         chunks.append(chunk)

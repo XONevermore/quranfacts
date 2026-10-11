@@ -10,6 +10,7 @@ What it does (so nobody has to type a verse or a URL by hand):
      videos a phone-friendly (<=480p VP9) transcode + poster frame.
   3. Verifies that each Arabic word in `words` really occurs in the cited verses.
   4. Checks that source links resolve.
+  5. Recounts every number pattern in facts_patterns.py against the full Quran text (quran_count.py).
 Exit code is non-zero if anything is wrong, so a broken fact never ships silently.
 
 Usage:  python3 tools/build_content.py [--offline] [--skip-links]
@@ -26,6 +27,8 @@ import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from facts_evidence import EVIDENCE  # noqa: E402
+from facts_patterns import PATTERNS, VERDICTS  # noqa: E402
+from quran_count import Quran, check_patterns  # noqa: E402
 from facts_source import CATEGORIES, CLAIM_TYPES, FACTS, INTRO_VERSE  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -358,6 +361,10 @@ def main():
         errors.append(f"[{missing}] has no entry in facts_evidence.py")
     for extra in sorted(set(EVIDENCE) - fact_ids):
         errors.append(f"[{extra}] is in facts_evidence.py but not in facts_source.py")
+    for extra in sorted(set(PATTERNS) - fact_ids):
+        errors.append(f"[{extra}] is in facts_patterns.py but not in facts_source.py")
+    print("Recounting number patterns…")
+    errors.extend(check_patterns(Quran(None if OFFLINE else http_json), PATTERNS, VERDICTS))
     for f in FACTS:
         for m in f["media"]:
             want(m[0])
@@ -432,6 +439,7 @@ def main():
             "proofHeading": ev.get("proofHeading", "How it was found out"),
             "proof": proof,
             "fit": fit,
+            "patterns": [{"claim": p["claim"], "check": p["check"], "verdict": p["verdict"]} for p in PATTERNS.get(f["id"], [])],
             "media": items,
             "sources": sources,
         })
@@ -454,9 +462,10 @@ def main():
     n_audio = sum(1 for f in out_facts for m in f["media"] if m["type"] == "audio")
     n_proof = sum(len(f["proof"]) for f in out_facts)
     n_video = sum(1 for f in out_facts for m in f["media"] if m["type"] == "video")
+    n_patterns = sum(len(f["patterns"]) for f in out_facts)
     n_img = sum(1 for f in out_facts for m in f["media"] if m["type"] == "image")
     print(f"Wrote {OUT}: {len(out_facts)} facts, {len(verse_cache)} verses, {n_proof} proof steps, "
-          f"{n_img} images, {n_video} videos, {n_audio} audio, "
+          f"{n_img} images, {n_video} videos, {n_audio} audio, {n_patterns} number patterns, "
           f"{os.path.getsize(OUT) // 1024} KB")
     for w in warnings:
         print("  WARN ", w)

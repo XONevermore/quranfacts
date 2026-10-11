@@ -116,6 +116,24 @@
     <string name="ls_verdict_nocorr">Sans la correction du mouvement de la Terre, la réponse est trop élevée de %1$s %%. C’est l’étape que les critiques contestent : elle ne fait pas partie du verset, et c’est elle qui fait tomber juste le nombre.</string>
     <string name="ls_verdict_solar">Utiliser un jour ordinaire de 24 heures ne décale le résultat que de %1$s %%, donc le choix du jour n’est pas ce qui porte l’affirmation.</string>
     <string name="ls_verdict_author">C’est la version présentée par son auteur. Elle tombe à moins de 0,001 %% de la valeur réelle, mais seulement après avoir choisi le jour sidéral, le mois sidéral, le rayon orbital moyen de la Lune et la correction du mouvement de la Terre. À vous de juger du poids que cela a.</string>
+    <string name="sd_title">Faites le calcul</string>
+    <string name="sd_sub">Le calcul populaire des « six jours », étape par étape.</string>
+    <string name="sd_step1">L\'univers a %1$s milliards d\'années (Planck, 2018).</string>
+    <string name="sd_step2">Divisé en six « jours » égaux : %1$s ÷ 6 = %2$s milliards d\'années par jour.</string>
+    <string name="sd_step3">La terre a été créée « en deux jours » (41:9) : 2 × %1$s = %2$s milliards d\'années.</string>
+    <string name="sd_q_place">Où placer les deux jours de la terre ?</string>
+    <string name="sd_first">Jours 1–2</string>
+    <string name="sd_last">Jours 5–6</string>
+    <string name="sd_axis_start">il y a %1$s Md d\'années</string>
+    <string name="sd_axis_end">Aujourd\'hui</string>
+    <string name="sd_earth_tick">Ligne bleue : formation de la Terre, il y a %1$s Md d\'années</string>
+    <string name="sd_result">LES DEUX JOURS DE LA TERRE</string>
+    <string name="sd_span_last">Commencés il y a %1$s milliards d\'années</string>
+    <string name="sd_span_first">Terminés il y a %1$s milliards d\'années</string>
+    <string name="sd_true_last">La Terre s\'est formée il y a %1$s milliards d\'années : écart %2$s.</string>
+    <string name="sd_true_first">La Terre s\'est formée il y a %1$s milliards d\'années, %2$s milliards d\'années après la fin de ces jours.</string>
+    <string name="sd_verdict_last">Ici, les nombres tombent à environ %1$s l\'un de l\'autre. Il faut pour cela deux choix que les versets ne font pas : six jours égaux, et les jours de la terre placés en dernier.</string>
+    <string name="sd_verdict_first">Dans l\'ordre où 41:9–12 les cite, les deux jours de la terre viennent en premier, et la correspondance disparaît. Le résultat dépend de la place des jours.</string>
     <string name="cd_copy_verse">Copier le verset</string>
     <string name="cd_share_verse">Partager le verset</string>
     <string name="cd_open_quran">Ouvrir sur Quran.com</string>
@@ -189,6 +207,12 @@
     <string name="media_photos_video_audio">Photos, vidéo et audio</string>
     <string name="sec_side">Côte à côte</string>
     <string name="sec_side_sub">Dans quelle mesure cela correspond-il ?</string>
+    <string name="sec_patterns">Motifs numériques</string>
+    <string name="sec_patterns_sub">Les comptages qui circulent, recomptés</string>
+    <string name="patterns_intro">De courtes vidéos comptent les versets, les mots et les lettres de ces versets. Nous avons recompté chaque nombre dans le texte standard (lecture Hafs, numérotation koufique des versets des Corans imprimés aujourd\'hui). Même un comptage exact reste un motif trouvé après coup, pas une preuve en soi.</string>
+    <string name="verdict_holds">Exact</string>
+    <string name="verdict_depends">Dépend de la façon de compter</string>
+    <string name="verdict_fails">Ne tient pas</string>
     <string name="sec_sources">Vérifiez par vous-même</string>
     <string name="sec_sources_sub">Sources</string>
     <string name="sec_keep_going">Continuez</string>

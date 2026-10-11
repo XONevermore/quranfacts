@@ -28,6 +28,7 @@ tools/facts_source.py    <- you edit this: verses, science text, media choices
                             (later batches: facts_more.py, facts_third.py; the intro verse, 41:53)
 tools/facts_evidence.py  <- and this: how it was proven, where it fits / where to be careful, sounds
                             (later batches: facts_evidence_more.py, facts_evidence_third.py)
+tools/facts_patterns.py  <- number patterns from social media ("75:4 is verse 5555"), each with a verdict
 tools/build_content.py   <- fetches, verifies, and writes facts.json
 ```
 
@@ -58,6 +59,11 @@ script. Editorial rules, also enforced by unit tests where possible:
 - Say what the verse says first, and what science found second. Never put words in the verse's mouth.
 - Pick the label honestly. Every fact needs both `fits` and `gaps` (in `tools/facts_evidence.py`); `interpretive` and `miracle` facts need at least two caveats.
 - If a claim is widely overstated online, say so under `gaps` (see `moon-split`, `two-seas`).
+- Counts of verses, words or letters that circulate with a fact go in `tools/facts_patterns.py`, never as proof:
+  each says what the recount found and gets a verdict (checks out / depends on how you count / does not hold).
+  `build_content.py` recounts every one against the full Quran text (`tools/quran_count.py`, Hafs, Kufan numbering)
+  and fails if a number in the text does not match. After a rebuild, run `python3 tools/i18n_words.py apply` to put
+  the verbatim key-word meanings back, then `python3 tools/i18n.py extract` and translate the new keys.
 - Every fact needs a `proof` timeline: who did what, when, and what it showed, with the original evidence where it exists.
 - A `discovery` places the fact on the app's Timeline at the first year in its text (for example
   `"1783 – 1927"` is 1783). If the text has no year, add `discoveryYear`. Gaps are counted from 632 CE.

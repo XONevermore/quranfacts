@@ -84,6 +84,9 @@ object I18n {
                         fits = f.fit.fits.mapIndexed { n, s -> t("$p.fit.$n", s) },
                         gaps = f.fit.gaps.mapIndexed { n, s -> t("$p.gap.$n", s) },
                     ),
+                    patterns = f.patterns.mapIndexed { n, s ->
+                        s.copy(claim = t("$p.pat.$n.claim", s.claim), check = t("$p.pat.$n.check", s.check))
+                    },
                     media = f.media.mapIndexed { n, m -> m.copy(caption = t("$p.media.$n.cap", m.caption)) },
                 )
             },

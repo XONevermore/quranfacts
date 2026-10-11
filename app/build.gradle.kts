@@ -38,8 +38,8 @@ android {
         applicationId = "com.mymax.quranscience"
         minSdk = 24
         targetSdk = 36
-        versionCode = 3
-        versionName = "1.2"
+        versionCode = 4
+        versionName = "1.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         manifestPlaceholders["admobAppId"] = admobTestAppId
@@ -125,6 +125,13 @@ dependencies {
     implementation(libs.play.services.ads)
     implementation(libs.billing.ktx)
     implementation(libs.ump)
+    // play-services-basement (pulled in by Ads, Billing and UMP) still drags in androidx.fragment 1.1.0, which Play
+    // Console flags as an outdated SDK. The app uses no Fragments itself; this constraint only raises the transitive version.
+    constraints {
+        implementation(libs.androidx.fragment) {
+            because("Play Console flags the transitive androidx.fragment:fragment:1.1.0 as outdated")
+        }
+    }
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

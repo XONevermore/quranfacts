@@ -116,6 +116,24 @@
     <string name="ls_verdict_nocorr">পৃথিবীর গতির সংশোধন ছাড়া উত্তর %1$s%% বেশি আসে। সমালোচকরা ঠিক এই ধাপটি নিয়েই প্রশ্ন তোলেন: এটি আয়াতের অংশ নয়, আর এটিই সংখ্যাটিকে মেলায়।</string>
     <string name="ls_verdict_solar">সাধারণ 24 ঘণ্টার দিন নিলে ফল মাত্র %1$s%% সরে যায়, তাই দিনের পছন্দ এই দাবির ভার বহন করছে না।</string>
     <string name="ls_verdict_author">এটি এর লেখকের উপস্থাপিত সংস্করণ। এটি প্রকৃত মানের 0.001%%-এর মধ্যে আসে, কিন্তু কেবল নাক্ষত্র দিন, নাক্ষত্র মাস, চাঁদের গড় কক্ষপথের ব্যাসার্ধ এবং পৃথিবীর গতির সংশোধন বেছে নেওয়ার পরই। এর ওজন কতটা, তা আপনি নিজে ঠিক করুন।</string>
+    <string name="sd_title">নিজে হিসাব করুন</string>
+    <string name="sd_sub">জনপ্রিয় “ছয় দিন” হিসাব, প্রতিটি ধাপসহ।</string>
+    <string name="sd_step1">মহাবিশ্বের বয়স %1$s বিলিয়ন বছর (Planck, 2018)।</string>
+    <string name="sd_step2">ছয়টি সমান “দিনে” ভাগ করলে: %1$s ÷ 6 = প্রতিদিন %2$s বিলিয়ন বছর।</string>
+    <string name="sd_step3">পৃথিবী সৃষ্টি হয়েছে “দু’দিনে” (41:9): 2 × %1$s = %2$s বিলিয়ন বছর।</string>
+    <string name="sd_q_place">পৃথিবীর দুই দিন কোথায় বসে?</string>
+    <string name="sd_first">দিন 1–2</string>
+    <string name="sd_last">দিন 5–6</string>
+    <string name="sd_axis_start">%1$s বিলিয়ন বছর আগে</string>
+    <string name="sd_axis_end">আজ</string>
+    <string name="sd_earth_tick">নীল রেখা: পৃথিবীর গঠন, %1$s বিলিয়ন বছর আগে</string>
+    <string name="sd_result">পৃথিবীর দুই দিন</string>
+    <string name="sd_span_last">শুরু %1$s বিলিয়ন বছর আগে</string>
+    <string name="sd_span_first">শেষ %1$s বিলিয়ন বছর আগে</string>
+    <string name="sd_true_last">পৃথিবী গঠিত হয়েছে %1$s বিলিয়ন বছর আগে: পার্থক্য %2$s।</string>
+    <string name="sd_true_first">পৃথিবী গঠিত হয়েছে %1$s বিলিয়ন বছর আগে, এই দিনগুলো শেষ হওয়ার %2$s বিলিয়ন বছর পরে।</string>
+    <string name="sd_verdict_last">এখানে সংখ্যাগুলো প্রায় %1$s ব্যবধানে মেলে। এর জন্য দুটি পছন্দ লাগে যা আয়াতগুলো করে না: ছয়টি সমান দিন, এবং পৃথিবীর দিনগুলো একেবারে শেষে রাখা।</string>
+    <string name="sd_verdict_first">41:9–12 যে ক্রমে উল্লেখ করে, সেখানে পৃথিবীর দুই দিন প্রথমে আসে এবং মিল হারিয়ে যায়। ফলাফল নির্ভর করে দিনগুলো কোথায় রাখা হয় তার ওপর।</string>
     <string name="cd_copy_verse">আয়াত কপি করুন</string>
     <string name="cd_share_verse">আয়াত শেয়ার করুন</string>
     <string name="cd_open_quran">Quran.com-এ খুলুন</string>
@@ -189,6 +207,12 @@
     <string name="media_photos_video_audio">ছবি, ভিডিও ও অডিও</string>
     <string name="sec_side">পাশাপাশি</string>
     <string name="sec_side_sub">কতটা মেলে?</string>
+    <string name="sec_patterns">সংখ্যার নকশা</string>
+    <string name="sec_patterns_sub">প্রচলিত গণনাগুলো, আবার গোনা হলো</string>
+    <string name="patterns_intro">ছোট ভিডিওগুলোতে এই আয়াতগুলোর আয়াত, শব্দ ও অক্ষর গোনা হয়। আমরা প্রতিটি সংখ্যা প্রমিত পাঠে (হাফস বর্ণনা, আজকের মুদ্রিত কুরআনের কুফি আয়াত-গণনা) আবার গুনেছি। যে গণনা মিলে যায়, সেটিও পরে খুঁজে পাওয়া একটি নকশা, নিজে থেকে প্রমাণ নয়।</string>
+    <string name="verdict_holds">মিলে যায়</string>
+    <string name="verdict_depends">কীভাবে গোনা হয় তার ওপর নির্ভর করে</string>
+    <string name="verdict_fails">টেকে না</string>
     <string name="sec_sources">নিজে যাচাই করুন</string>
     <string name="sec_sources_sub">উৎস</string>
     <string name="sec_keep_going">এগিয়ে চলুন</string>

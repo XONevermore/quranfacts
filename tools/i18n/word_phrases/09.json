@@ -1,0 +1,46 @@
+{
+ "six-days.0": {
+  "en": "days",
+  "uz": "кунда",
+  "ru": "дней",
+  "tr": "günde",
+  "fr": "jours",
+  "id": "masa",
+  "ur": "دن",
+  "bn": "দিনের",
+  "de": "Tagen"
+ },
+ "six-days.1": {
+  "en": "two days",
+  "uz": "икки кунда",
+  "ru": "два дня",
+  "tr": "iki günde",
+  "fr": "deux jours",
+  "id": "dua masa",
+  "ur": "دو دن",
+  "bn": "দু’দিনে",
+  "de": "zwei Tagen"
+ },
+ "six-days.2": {
+  "en": "a day",
+  "uz": "бир кун",
+  "ru": "день",
+  "tr": "bir gün",
+  "fr": "un jour",
+  "id": "sehari",
+  "ur": "ایک روز",
+  "bn": "একদিন",
+  "de": "ein Tag"
+ },
+ "six-days.3": {
+  "en": "like a thousand",
+  "uz": "минг йилдек",
+  "ru": "равен тысяче",
+  "tr": "bin yıl gibi",
+  "fr": "équivaut à mille",
+  "id": "seperti seribu",
+  "ur": "ہزار برس کے برابر",
+  "bn": "এক হাজার বছরের সমান",
+  "de": "wie tausend"
+ }
+}

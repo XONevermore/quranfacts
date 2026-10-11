@@ -264,6 +264,10 @@ fun FactDetailScreen(
                 }
             }
 
+            if (fact.widget == "sixdays") {
+                item { SixDaysLab(Modifier.padding(horizontal = 20.dp).offset(y = (-36).dp)) }
+            }
+
             // ---- The evidence: how it was found out ---------------------
             if (fact.proof.isNotEmpty()) {
                 item {
@@ -300,6 +304,19 @@ fun FactDetailScreen(
                     ) {
                         SectionTitle(stringResource(R.string.sec_side), stringResource(R.string.sec_side_sub))
                         FitPanel(fact.fit)
+                    }
+                }
+            }
+
+            // ---- Number patterns: the counts people share, recounted -----
+            if (fact.patterns.isNotEmpty()) {
+                item {
+                    Column(
+                        Modifier.padding(horizontal = 20.dp).offset(y = (-36).dp),
+                        verticalArrangement = Arrangement.spacedBy(14.dp),
+                    ) {
+                        SectionTitle(stringResource(R.string.sec_patterns), stringResource(R.string.sec_patterns_sub))
+                        PatternsPanel(fact.patterns)
                     }
                 }
             }

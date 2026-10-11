@@ -164,6 +164,8 @@
  "moon-phases.gap.0": "C’est une observation à l’œil nu ; les Babyloniens et les Grecs ont décrit les mêmes phases.",
  "moon-phases.gap.1": "Le verset ne dit pas pourquoi la Lune a des phases.",
  "moon-phases.gap.2": "L’image du palmier-dattier est tirée de la vie arabe, ce n’est pas une mesure.",
+ "moon-phases.pat.0.claim": "Le mot qamar (lune) apparaît 27 fois, et la Lune fait le tour de la Terre en 27,3 jours.",
+ "moon-phases.pat.0.check": "Le compte est juste : 27, toutes formes confondues. Mais les phases de 36:39 suivent le mois d’une nouvelle lune à la suivante, 29,5 jours, qui est aussi le mois du calendrier islamique ; 27,3 jours, c’est un tour mesuré par rapport aux étoiles. Et la plupart de ces comptages ne correspondent à rien : le Soleil, shams, apparaît 33 fois.",
  "moon-phases.media.0.cap": "Un croissant de Lune décroissant.",
  "moon-phases.media.1.cap": "Dessins de la Lune par Galilée dans ses phases.",
  "moon-phases.media.2.cap": "NASA : une année entière de phases de la Lune.",

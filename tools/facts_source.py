@@ -896,11 +896,12 @@ FACTS = [
 ]
 
 
-# Second and third batches (see facts_more.py for the inclusion rule)
+# Second, third and fourth batches (see facts_more.py for the inclusion rule)
 from facts_more import MORE_FACTS  # noqa: E402
 from facts_third import THIRD_FACTS  # noqa: E402
+from facts_fourth import FOURTH_FACTS  # noqa: E402
 
-FACTS = FACTS + MORE_FACTS + THIRD_FACTS
+FACTS = FACTS + MORE_FACTS + THIRD_FACTS + FOURTH_FACTS
 
 # The Quran's own statement of what this app is about, shown on the home screen.
 INTRO_VERSE = "41:53"
